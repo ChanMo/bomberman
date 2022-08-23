@@ -1,0 +1,88 @@
+{
+"skeleton": { "hash": "mPpMgCM2dKc", "spine": "3.8-from-4.0.63", "x": -256, "y": -153, "width": 512, "height": 287.5 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "hands", "parent": "root", "x": 2, "y": -128 },
+	{ "name": "head", "parent": "root", "x": -3.5, "y": 80 },
+	{ "name": "shines", "parent": "root", "x": -29.65, "y": -15.78 },
+	{ "name": "shine2", "parent": "root", "x": 33.51, "y": -15.77 }
+],
+"slots": [
+	{ "name": "1725", "bone": "root", "attachment": "1725" },
+	{ "name": "1725_1", "bone": "head", "attachment": "1725_1" },
+	{ "name": "1725_2", "bone": "hands", "attachment": "1725_2" },
+	{ "name": "1725_3", "bone": "shines", "attachment": "1725_3" },
+	{ "name": "1725_4", "bone": "shine2", "attachment": "1725_3" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1725": {
+				"1725": { "width": 512, "height": 256 }
+			},
+			"1725_1": {
+				"1725_1": { "x": 3.5, "y": -62, "width": 217, "height": 233 }
+			},
+			"1725_2": {
+				"1725_2": { "y": 22, "width": 75, "height": 94 }
+			},
+			"1725_3": {
+				"1725_3": { "x": -2.85, "y": 3.43, "width": 41, "height": 28 }
+			},
+			"1725_4": {
+				"1725_3": { "x": -2.32, "y": 1.55, "width": 41, "height": 28 }
+			}
+		}
+	}
+],
+"animations": {
+	"emote": {
+		"bones": {
+			"shines": {
+				"rotate": [
+					{ "angle": -3 },
+					{ "time": 0.1667, "angle": 3 },
+					{ "time": 0.3333, "angle": -3 },
+					{ "time": 0.5, "angle": 3 },
+					{ "time": 0.6667, "angle": -3 },
+					{ "time": 0.8333, "angle": 3 },
+					{ "time": 1, "angle": -3 },
+					{ "time": 1.1667, "angle": 3 },
+					{ "time": 1.3333, "angle": -3 },
+					{ "time": 1.5, "angle": 3 },
+					{ "time": 1.6667, "angle": -3 }
+				],
+				"translate": [
+					{ "x": 0.25, "y": 1.09 }
+				]
+			},
+			"shine2": {
+				"rotate": [
+					{ "angle": -3 },
+					{ "time": 0.1667, "angle": 3 },
+					{ "time": 0.3333, "angle": -3 },
+					{ "time": 0.5, "angle": 3 },
+					{ "time": 0.6667, "angle": -3 },
+					{ "time": 0.8333, "angle": 3 },
+					{ "time": 1, "angle": -3 },
+					{ "time": 1.1667, "angle": 3 },
+					{ "time": 1.3333, "angle": -3 },
+					{ "time": 1.5, "angle": 3 },
+					{ "time": 1.6667, "angle": -3 }
+				]
+			},
+			"hands": {
+				"translate": [
+					{ "y": -3.09 }
+				],
+				"scale": [
+					{},
+					{ "time": 1.3333, "x": 1.123, "y": 1.169 },
+					{ "time": 1.6667 }
+				]
+			}
+		}
+	}
+}
+}

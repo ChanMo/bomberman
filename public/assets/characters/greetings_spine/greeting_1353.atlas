@@ -1,0 +1,34 @@
+
+greeting_1353.png
+size: 424,462
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 2, 217
+  size: 420, 243
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+4
+  rotate: true
+  xy: 2, 2
+  size: 213, 227
+  orig: 213, 227
+  offset: 0, 0
+  index: -1
+4a
+  rotate: false
+  xy: 231, 2
+  size: 97, 103
+  orig: 97, 103
+  offset: 0, 0
+  index: -1
+4b
+  rotate: false
+  xy: 231, 107
+  size: 94, 94
+  orig: 94, 95
+  offset: 0, 0
+  index: -1

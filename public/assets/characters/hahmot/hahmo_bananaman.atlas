@@ -1,0 +1,104 @@
+
+hahmo_bananaman.png
+size: 511,294
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: false
+  xy: 127, 132
+  size: 120, 160
+  orig: 120, 160
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 249, 141
+  size: 123, 151
+  orig: 123, 151
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: false
+  xy: 2, 129
+  size: 123, 163
+  orig: 123, 164
+  offset: 0, 1
+  index: -1
+hand_Rside
+  rotate: false
+  xy: 374, 177
+  size: 70, 115
+  orig: 70, 115
+  offset: 0, 0
+  index: -1
+hand_left_b
+  rotate: true
+  xy: 127, 66
+  size: 64, 116
+  orig: 64, 117
+  offset: 0, 1
+  index: -1
+hand_left_f
+  rotate: true
+  xy: 374, 105
+  size: 70, 112
+  orig: 70, 113
+  offset: 0, 1
+  index: -1
+hand_right_b
+  rotate: true
+  xy: 2, 63
+  size: 64, 116
+  orig: 64, 117
+  offset: 0, 1
+  index: -1
+hand_right_f
+  rotate: true
+  xy: 249, 69
+  size: 70, 112
+  orig: 70, 113
+  offset: 0, 1
+  index: -1
+leg_Rside
+  rotate: true
+  xy: 363, 35
+  size: 68, 92
+  orig: 69, 92
+  offset: 0, 0
+  index: -1
+leg_Rside_2
+  rotate: true
+  xy: 363, 35
+  size: 68, 92
+  orig: 69, 92
+  offset: 0, 0
+  index: -1
+leg_left_b
+  rotate: true
+  xy: 120, 5
+  size: 59, 98
+  orig: 59, 98
+  offset: 0, 0
+  index: -1
+leg_left_f
+  rotate: false
+  xy: 446, 194
+  size: 63, 98
+  orig: 64, 98
+  offset: 0, 0
+  index: -1
+leg_right_b
+  rotate: true
+  xy: 2, 2
+  size: 59, 98
+  orig: 59, 98
+  offset: 0, 0
+  index: -1
+leg_right_f
+  rotate: true
+  xy: 245, 4
+  size: 63, 98
+  orig: 63, 98
+  offset: 0, 0
+  index: -1

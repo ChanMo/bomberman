@@ -1,0 +1,138 @@
+
+arena4_hahmo_ghostrider.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: true
+  xy: 250, 155
+  size: 99, 147
+  orig: 99, 159
+  offset: 0, 2
+  index: -1
+body_b
+  rotate: false
+  xy: 0, 104
+  size: 123, 150
+  orig: 123, 150
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: false
+  xy: 125, 108
+  size: 123, 146
+  orig: 123, 150
+  offset: 0, 4
+  index: -1
+hand_Rside
+  rotate: true
+  xy: 399, 192
+  size: 62, 101
+  orig: 43, 86
+  offset: -25, -5
+  index: -1
+hand_left_b
+  rotate: false
+  xy: 126, 5
+  size: 61, 101
+  orig: 43, 86
+  offset: -20, 0
+  index: -1
+hand_left_f
+  rotate: false
+  xy: 0, 0
+  size: 61, 102
+  orig: 43, 86
+  offset: 0, 0
+  index: -1
+hand_right_b
+  rotate: false
+  xy: 189, 5
+  size: 61, 101
+  orig: 43, 86
+  offset: 0, 1
+  index: -1
+hand_right_f
+  rotate: false
+  xy: 63, 0
+  size: 61, 102
+  orig: 43, 86
+  offset: -20, 0
+  index: -1
+leg_Rside
+  rotate: true
+  xy: 399, 129
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+leg_Rside_2
+  rotate: false
+  xy: 252, 65
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+leg_left_b
+  rotate: false
+  xy: 315, 66
+  size: 55, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+leg_left_f
+  rotate: true
+  xy: 372, 73
+  size: 54, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+leg_right_b
+  rotate: true
+  xy: 252, 8
+  size: 55, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+leg_right_f
+  rotate: true
+  xy: 372, 17
+  size: 54, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+head_Lside
+rotate: false
+xy: 1, 1
+size: 87, 83
+orig: 87, 83
+offset: 0, 0
+index: -1
+head_Rside
+rotate: false
+xy: 1, 1
+size: 87, 83
+orig: 87, 83
+offset: 0, 0
+index: -1
+head_b
+rotate: false
+xy: 1, 1
+size: 88, 84
+orig: 88, 84
+offset: 0, 0
+index: -1
+head_f
+rotate: false
+xy: 1, 1
+size: 88, 84
+orig: 88, 84
+offset: 0, 0
+index: -1
+muumipappa
+rotate: false
+xy: 1, 1
+size: 81, 79
+orig: 81, 79
+offset: 0, 0
+index: -1

@@ -1,0 +1,21 @@
+{
+  "animals": 12,
+  "walls": 0.45,
+  "minkeyposition": 0.4,
+  "monsterboxes":0,
+  "undestroyableboxes":0,
+  "slime":0,
+  "lava":0,
+  "monstertypes": [ "robotred", "robotspider", "robotred", "robotspider", "robotmini" ]
+}
+#######k###############################################
+#m#.......mm#.......-D-...................#mm.........#
+#m#.#.#.#.#.#.#-#-#-#o#.#.#.#-#.#.#.#.#.#.#.#.#.#.#.#m#
+#¤...ooooo...oPooooo.o-.....-oPo.ooo...ooooo........#m#
+#Å#.#o#.#o#.#o#o#o#o#o#-#-#-#o#o#o#o#.#o#.#o#.#.#.#.#m#
+#ooooo.-.o.-.o#vov#oo1oooooooo#vov#ooooo.-.o.-.oooooo\148/#
+#o#.#.#.#o#.#o#o#o#o#o#-#-#-#o#o#o#o#.#.#.#o#.#o#.#.#m#
+#\148/.......ooooooooopo.-......-ooo.opo.......ooooo....#m#
+#o#.#.#.#.#.#.#-#-#-#.#.#.#.#-#.#.#.#.#.#.#.#.#.#.#.#m#
+#.....mm#.............................#mm.............#
+#######################################################

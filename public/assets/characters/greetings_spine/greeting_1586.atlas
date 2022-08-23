@@ -1,0 +1,27 @@
+
+greeting_1586.png
+size: 463, 424
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 4
+  size: 420, 243
+  orig: 422, 245
+  offset: 1, 1
+  index: -1
+1a
+  rotate: true
+  xy: 247, 146
+  size: 278, 214
+  orig: 280, 216
+  offset: 1, 1
+  index: -1
+1b
+  rotate: false
+  xy: 247, 94
+  size: 153, 50
+  orig: 157, 54
+  offset: 2, 2
+  index: -1

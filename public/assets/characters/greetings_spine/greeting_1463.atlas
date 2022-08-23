@@ -1,0 +1,34 @@
+
+greeting_1463.png
+size: 429,401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 2, 156
+  size: 420, 243
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+4a
+  rotate: true
+  xy: 320, 18
+  size: 136, 107
+  orig: 136, 107
+  offset: 0, 0
+  index: -1
+4b
+  rotate: false
+  xy: 2, 2
+  size: 160, 152
+  orig: 160, 152
+  offset: 0, 0
+  index: -1
+4c
+  rotate: false
+  xy: 164, 20
+  size: 154, 134
+  orig: 154, 134
+  offset: 0, 0
+  index: -1

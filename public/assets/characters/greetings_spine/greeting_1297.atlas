@@ -1,0 +1,34 @@
+
+greeting_1297.png
+size: 506,312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-2
+  rotate: false
+  xy: 2, 55
+  size: 420, 255
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+1a
+  rotate: false
+  xy: 424, 2
+  size: 73, 89
+  orig: 73, 91
+  offset: 0, 1
+  index: -1
+1b
+  rotate: true
+  xy: 424, 204
+  size: 106, 80
+  orig: 106, 85
+  offset: 0, 0
+  index: -1
+1c
+  rotate: true
+  xy: 424, 93
+  size: 109, 67
+  orig: 109, 67
+  offset: 0, 0
+  index: -1

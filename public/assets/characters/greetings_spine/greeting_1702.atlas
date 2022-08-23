@@ -1,0 +1,27 @@
+
+greeting_1702.png
+size: 658, 326
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1702
+  rotate: false
+  xy: 2, 81
+  size: 420, 243
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+1702_1
+  rotate: true
+  xy: 424, 2
+  size: 103, 154
+  orig: 103, 154
+  offset: 0, 0
+  index: -1
+1702_2
+  rotate: true
+  xy: 424, 107
+  size: 217, 232
+  orig: 217, 233
+  offset: 0, 1
+  index: -1

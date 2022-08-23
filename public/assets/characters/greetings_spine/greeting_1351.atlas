@@ -1,0 +1,34 @@
+
+greeting_1351.png
+size: 424,436
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 191
+  size: 420, 243
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+2a
+  rotate: false
+  xy: 2, 2
+  size: 194, 187
+  orig: 194, 187
+  offset: 0, 0
+  index: -1
+2b
+  rotate: false
+  xy: 198, 105
+  size: 78, 84
+  orig: 78, 84
+  offset: 0, 0
+  index: -1
+2c
+  rotate: false
+  xy: 198, 51
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1

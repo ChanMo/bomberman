@@ -1,0 +1,140 @@
+
+hahmo_shark.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: false
+  xy: 250, 113
+  size: 99, 141
+  orig: 99, 159
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 0, 104
+  size: 123, 150
+  orig: 123, 150
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: false
+  xy: 125, 110
+  size: 123, 144
+  orig: 123, 150
+  offset: 0, 0
+  index: -1
+hand_Rside
+  rotate: false
+  xy: 126, 10
+  size: 62, 98
+  orig: 25, 65
+  offset: -30, -25
+  index: -1
+hand_left_b
+  rotate: false
+  xy: 351, 154
+  size: 61, 100
+  orig: 35, 65
+  offset: -25, -20
+  index: -1
+hand_left_f
+  rotate: false
+  xy: 0, 0
+  size: 61, 102
+  orig: 35, 65
+  offset: 0, -25
+  index: -1
+hand_right_b
+  rotate: false
+  xy: 414, 154
+  size: 61, 100
+  orig: 35, 65
+  offset: 0, -20
+  index: -1
+hand_right_f
+  rotate: false
+  xy: 63, 0
+  size: 61, 102
+  orig: 35, 65
+  offset: -25, -23
+  index: -1
+leg_Rside
+  rotate: false
+  xy: 190, 20
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+leg_Rside_2
+  rotate: false
+  xy: 253, 23
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+leg_left_b
+  rotate: true
+  xy: 351, 97
+  size: 55, 87
+  orig: 56, 87
+  offset: 1, 0
+  index: -1
+leg_left_f
+  rotate: false
+  xy: 440, 65
+  size: 54, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+leg_right_b
+  rotate: true
+  xy: 316, 40
+  size: 55, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+leg_right_f
+  rotate: true
+  xy: 405, 9
+  size: 54, 87
+  orig: 56, 87
+  offset: 2, 0
+  index: -1
+head_Lside
+rotate: false
+xy: 1, 1
+size: 87, 83
+orig: 87, 83
+offset: 0, 0
+index: -1
+head_Rside
+rotate: false
+xy: 1, 1
+size: 87, 83
+orig: 87, 83
+offset: 0, 0
+index: -1
+head_b
+rotate: false
+xy: 1, 1
+size: 88, 84
+orig: 88, 84
+offset: 0, 0
+index: -1
+head_f
+rotate: false
+xy: 1, 1
+size: 88, 84
+orig: 88, 84
+offset: 0, 0
+index: -1
+muumipappa
+rotate: false
+xy: 1, 1
+size: 81, 79
+orig: 81, 79
+offset: 0, 0
+index: -1
+
+

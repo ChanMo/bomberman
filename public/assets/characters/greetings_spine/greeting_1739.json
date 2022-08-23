@@ -1,0 +1,63 @@
+{
+"skeleton": { "hash": "s1YFOkGGjbc", "spine": "3.8-from-4.0.64", "x": -256, "y": -128, "width": 512, "height": 258 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "head", "parent": "root", "x": -6.5, "y": 45 },
+	{ "name": "jaw", "parent": "head", "y": -110 },
+	{ "name": "eyebrows", "parent": "head", "x": 1.37, "y": 28.58 }
+],
+"slots": [
+	{ "name": "greeting_1739", "bone": "root", "attachment": "greeting_1739" },
+	{ "name": "greeting_1739_1", "bone": "head", "attachment": "greeting_1739_1" },
+	{ "name": "greeting_1739_2", "bone": "jaw", "attachment": "greeting_1739_2" },
+	{ "name": "greeting_1739_3", "bone": "eyebrows", "attachment": "greeting_1739_3" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"greeting_1739": {
+				"greeting_1739": { "width": 512, "height": 256 }
+			},
+			"greeting_1739_1": {
+				"greeting_1739_1": { "x": -1, "y": -12, "width": 182, "height": 194 }
+			},
+			"greeting_1739_2": {
+				"greeting_1739_2": { "y": 3, "width": 73, "height": 43 }
+			},
+			"greeting_1739_3": {
+				"greeting_1739_3": { "x": -0.88, "y": -4.42, "width": 111, "height": 26 }
+			}
+		}
+	}
+],
+"animations": {
+	"emote": {
+		"slots": {
+			"greeting_1739_2": {
+				"color": [
+					{ "time": 1.2, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"jaw": {
+				"translate": [
+					{ "y": 13, "curve": "stepped" },
+					{ "time": 0.8667, "y": 13 },
+					{ "time": 1.3333, "y": -260.54 },
+					{ "time": 3.6667, "y": -221 }
+				]
+			},
+			"eyebrows": {
+				"translate": [
+					{ "y": -19.27, "curve": "stepped" },
+					{ "time": 0.6667, "y": -19.27 },
+					{ "time": 1.1333, "y": -2.41 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,49 @@
+{
+"skeleton": { "hash": "tEIL9b6/R4Q", "spine": "3.8-from-4.0.61", "x": -256, "y": -128, "width": 512, "height": 256 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "hand1", "parent": "root", "x": -168.5, "y": -56 },
+	{ "name": "hand2", "parent": "root", "x": 161.5, "y": -55 }
+],
+"slots": [
+	{ "name": "1700", "bone": "root", "attachment": "1700" },
+	{ "name": "1700_1", "bone": "hand1", "attachment": "1700_1" },
+	{ "name": "1700_2", "bone": "hand2", "attachment": "1700_1" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1700": {
+				"1700": { "width": 512, "height": 256 }
+			},
+			"1700_1": {
+				"1700_1": { "x": -5, "y": 34, "width": 105, "height": 163 }
+			},
+			"1700_2": {
+				"1700_1": { "x": 3, "y": 33, "scaleX": -1, "width": 105, "height": 163 }
+			}
+		}
+	}
+],
+"animations": {
+	"emote": {
+		"bones": {
+			"hand1": {
+				"rotate": [
+					{},
+					{ "time": 0.1333, "angle": 5 },
+					{ "time": 0.2667 }
+				]
+			},
+			"hand2": {
+				"rotate": [
+					{},
+					{ "time": 0.1333, "angle": -5 },
+					{ "time": 0.2667 }
+				]
+			}
+		}
+	}
+}
+}

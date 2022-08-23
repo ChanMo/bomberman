@@ -1,0 +1,138 @@
+
+arena6_hahmo_areenawinter.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: true
+  xy: 250, 154
+  size: 99, 151
+  orig: 99, 159
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 0, 103
+  size: 123, 150
+  orig: 123, 150
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: false
+  xy: 125, 105
+  size: 123, 148
+  orig: 123, 150
+  offset: 0, 2
+  index: -1
+hand_Rside
+  rotate: false
+  xy: 189, 4
+  size: 61, 99
+  orig: 62, 101
+  offset: 1, 0
+  index: -1
+hand_left_b
+  rotate: false
+  xy: 0, 0
+  size: 61, 101
+  orig: 61, 102
+  offset: 0, 0
+  index: -1
+hand_left_f
+  rotate: false
+  xy: 63, 1
+  size: 61, 100
+  orig: 61, 102
+  offset: 0, 0
+  index: -1
+hand_right_b
+  rotate: true
+  xy: 403, 192
+  size: 61, 101
+  orig: 61, 102
+  offset: 0, 0
+  index: -1
+hand_right_f
+  rotate: false
+  xy: 126, 3
+  size: 61, 100
+  orig: 61, 102
+  offset: 0, 0
+  index: -1
+leg_Rside
+  rotate: true
+  xy: 403, 129
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+leg_Rside_2
+  rotate: false
+  xy: 252, 64
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+leg_left_b
+  rotate: false
+  xy: 315, 65
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+leg_left_f
+  rotate: true
+  xy: 252, 6
+  size: 56, 85
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+leg_right_b
+  rotate: true
+  xy: 373, 71
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+leg_right_f
+  rotate: true
+  xy: 373, 13
+  size: 56, 85
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+head_Lside
+rotate: false
+xy: 1, 1
+size: 87, 83
+orig: 87, 83
+offset: 0, 0
+index: -1
+head_Rside
+rotate: false
+xy: 1, 1
+size: 87, 83
+orig: 87, 83
+offset: 0, 0
+index: -1
+head_b
+rotate: false
+xy: 1, 1
+size: 88, 84
+orig: 88, 84
+offset: 0, 0
+index: -1
+head_f
+rotate: false
+xy: 1, 1
+size: 88, 84
+orig: 88, 84
+offset: 0, 0
+index: -1
+muumipappa
+rotate: false
+xy: 1, 1
+size: 81, 79
+orig: 81, 79
+offset: 0, 0
+index: -1

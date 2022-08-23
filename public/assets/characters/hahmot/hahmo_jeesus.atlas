@@ -1,0 +1,104 @@
+
+hahmo_jeesus.png
+size: 512,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: false
+  xy: 273, 152
+  size: 123, 162
+  orig: 123, 162
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 2, 151
+  size: 134, 163
+  orig: 134, 163
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: false
+  xy: 138, 150
+  size: 133, 164
+  orig: 133, 164
+  offset: 0, 0
+  index: -1
+hand_Rside
+  rotate: true
+  xy: 273, 83
+  size: 67, 115
+  orig: 67, 115
+  offset: 0, 0
+  index: -1
+hand_left_b
+  rotate: true
+  xy: 2, 81
+  size: 68, 113
+  orig: 68, 113
+  offset: 0, 0
+  index: -1
+hand_left_f
+  rotate: false
+  xy: 398, 199
+  size: 71, 115
+  orig: 71, 115
+  offset: 0, 0
+  index: -1
+hand_right_b
+  rotate: true
+  xy: 117, 81
+  size: 67, 111
+  orig: 67, 111
+  offset: 0, 0
+  index: -1
+hand_right_f
+  rotate: true
+  xy: 398, 125
+  size: 72, 112
+  orig: 72, 112
+  offset: 0, 0
+  index: -1
+leg_Rside
+  rotate: true
+  xy: 390, 60
+  size: 63, 92
+  orig: 63, 92
+  offset: 0, 0
+  index: -1
+leg_Rside_2
+  rotate: true
+  xy: 390, 60
+  size: 63, 92
+  orig: 63, 92
+  offset: 0, 0
+  index: -1
+leg_left_b
+  rotate: true
+  xy: 230, 21
+  size: 60, 95
+  orig: 60, 95
+  offset: 0, 0
+  index: -1
+leg_left_f
+  rotate: true
+  xy: 99, 22
+  size: 57, 97
+  orig: 57, 98
+  offset: 0, 1
+  index: -1
+leg_right_b
+  rotate: true
+  xy: 2, 19
+  size: 60, 95
+  orig: 60, 95
+  offset: 0, 0
+  index: -1
+leg_right_f
+  rotate: true
+  xy: 327, 2
+  size: 56, 98
+  orig: 57, 98
+  offset: 0, 0
+  index: -1

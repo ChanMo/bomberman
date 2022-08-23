@@ -1,0 +1,82 @@
+{
+"skeleton": { "hash": "eaBwLXUlBkM", "spine": "3.8-from-4.0.53", "x": -256, "y": -128, "width": 512, "height": 263.5 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "head", "parent": "root", "x": 7.5, "y": -43.5 },
+	{ "name": "hand", "parent": "root", "x": -165.5, "y": -56.5 },
+	{ "name": "effect", "parent": "root", "x": -133.5, "y": 41.5 }
+],
+"slots": [
+	{ "name": "greeting_1637", "bone": "root", "attachment": "greeting_1637" },
+	{ "name": "greeting_1637_1", "bone": "head", "attachment": "greeting_1637_1" },
+	{ "name": "greeting_1637_2", "bone": "hand", "attachment": "greeting_1637_3" },
+	{ "name": "greeting_1637_4", "bone": "effect", "attachment": "greeting_1637_4" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"greeting_1637": {
+				"greeting_1637": { "width": 512, "height": 256 }
+			},
+			"greeting_1637_1": {
+				"greeting_1637_1": { "x": -7.5, "y": 62.5, "width": 217, "height": 233 }
+			},
+			"greeting_1637_2": {
+				"greeting_1637_2": { "width": 85, "height": 116 },
+				"greeting_1637_3": { "y": 14, "width": 97, "height": 150 }
+			},
+			"greeting_1637_4": {
+				"greeting_1637_4": { "x": 4.4, "y": 5.42, "width": 44, "height": 47 }
+			}
+		}
+	}
+],
+"animations": {
+	"emote": {
+		"slots": {
+			"greeting_1637_2": {
+				"attachment": [
+					{ "name": "greeting_1637_2" },
+					{ "time": 0.3333, "name": "greeting_1637_3" },
+					{ "time": 1.3333, "name": "greeting_1637_3" }
+				]
+			},
+			"greeting_1637_4": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3333, "name": "greeting_1637_4" }
+				]
+			}
+		},
+		"bones": {
+			"hand": {
+				"rotate": [
+					{ "angle": -15.77 },
+					{ "time": 0.3333, "angle": 20.55 }
+				],
+				"translate": [
+					{ "x": 36, "y": 12 },
+					{ "time": 0.3333, "x": 7, "y": 34 }
+				]
+			},
+			"effect": {
+				"translate": [
+					{ "x": 4, "y": 9 },
+					{ "time": 0.3333, "x": 2, "y": 11 }
+				],
+				"scale": [
+					{ "time": 0.3333, "x": 0.544, "y": 0.811 },
+					{ "time": 0.4667, "x": 1.215, "y": 1.215 },
+					{ "time": 0.6 }
+				]
+			},
+			"head": {
+				"translate": [
+					{ "x": 30, "y": -4 }
+				]
+			}
+		}
+	}
+}
+}

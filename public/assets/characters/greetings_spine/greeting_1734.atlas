@@ -1,0 +1,34 @@
+
+greeting_1734.png
+size: 479, 259
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+greeting_1734
+  rotate: false
+  xy: 2, 2
+  size: 420, 255
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+greeting_1734_1
+  rotate: true
+  xy: 424, 127
+  size: 130, 53
+  orig: 139, 78
+  offset: 5, 0
+  index: -1
+greeting_1734_2
+  rotate: true
+  xy: 424, 66
+  size: 59, 25
+  orig: 59, 26
+  offset: 0, 0
+  index: -1
+greeting_1734_3
+  rotate: true
+  xy: 424, 3
+  size: 61, 21
+  orig: 64, 22
+  offset: 3, 0
+  index: -1

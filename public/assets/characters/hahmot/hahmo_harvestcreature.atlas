@@ -1,0 +1,104 @@
+
+hahmo_harvestcreature.png
+size: 492,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: false
+  xy: 296, 143
+  size: 121, 161
+  orig: 121, 161
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 2, 140
+  size: 146, 164
+  orig: 146, 164
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: false
+  xy: 150, 142
+  size: 144, 162
+  orig: 144, 162
+  offset: 0, 0
+  index: -1
+hand_Rside
+  rotate: false
+  xy: 419, 189
+  size: 71, 115
+  orig: 71, 115
+  offset: 0, 0
+  index: -1
+hand_left_b
+  rotate: true
+  xy: 2, 74
+  size: 64, 118
+  orig: 64, 118
+  offset: 0, 0
+  index: -1
+hand_left_f
+  rotate: false
+  xy: 419, 73
+  size: 68, 114
+  orig: 68, 115
+  offset: 0, 1
+  index: -1
+hand_right_b
+  rotate: true
+  xy: 122, 74
+  size: 64, 118
+  orig: 64, 118
+  offset: 0, 0
+  index: -1
+hand_right_f
+  rotate: true
+  xy: 296, 73
+  size: 68, 114
+  orig: 68, 115
+  offset: 0, 1
+  index: -1
+leg_Rside
+  rotate: true
+  xy: 400, 2
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+leg_Rside_2
+  rotate: true
+  xy: 400, 2
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+leg_left_b
+  rotate: true
+  xy: 204, 7
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+leg_left_f
+  rotate: true
+  xy: 2, 7
+  size: 65, 99
+  orig: 65, 99
+  offset: 0, 0
+  index: -1
+leg_right_b
+  rotate: true
+  xy: 302, 7
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+leg_right_f
+  rotate: true
+  xy: 103, 7
+  size: 65, 99
+  orig: 65, 99
+  offset: 0, 0
+  index: -1

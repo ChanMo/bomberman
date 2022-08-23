@@ -1,0 +1,20 @@
+
+greeting_1568.png
+size: 424, 335
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+greeting_1568
+  rotate: false
+  xy: 2, 85
+  size: 420, 250
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+greeting_1568_1
+  rotate: false
+  xy: 2, 4
+  size: 112, 79
+  orig: 112, 79
+  offset: 0, 0
+  index: -1

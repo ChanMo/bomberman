@@ -1,0 +1,34 @@
+
+greeting_1589.png
+size: 424, 336
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+4
+  rotate: false
+  xy: 2, 81
+  size: 420, 255
+  orig: 422, 257
+  offset: 1, 1
+  index: -1
+4a
+  rotate: false
+  xy: 208, 42
+  size: 113, 37
+  orig: 117, 41
+  offset: 2, 2
+  index: -1
+4b
+  rotate: false
+  xy: 2, 7
+  size: 112, 72
+  orig: 115, 74
+  offset: 2, 1
+  index: -1
+4c
+  rotate: false
+  xy: 116, 4
+  size: 90, 75
+  orig: 93, 77
+  offset: 1, 1
+  index: -1

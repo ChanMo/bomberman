@@ -1,0 +1,41 @@
+
+greeting_1355.png
+size: 505,342
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6
+  rotate: false
+  xy: 2, 84
+  size: 420, 256
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+6a
+  rotate: false
+  xy: 133, 57
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+6b
+  rotate: false
+  xy: 424, 208
+  size: 79, 132
+  orig: 80, 132
+  offset: 1, 0
+  index: -1
+6c
+  rotate: false
+  xy: 424, 74
+  size: 79, 132
+  orig: 80, 132
+  offset: 1, 0
+  index: -1
+6d
+  rotate: true
+  xy: 2, 2
+  size: 80, 129
+  orig: 80, 129
+  offset: 0, 0
+  index: -1

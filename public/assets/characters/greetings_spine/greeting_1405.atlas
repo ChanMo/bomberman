@@ -1,0 +1,34 @@
+
+greeting_1405.png
+size: 424,466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 221
+  size: 420, 243
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+2a
+  rotate: true
+  xy: 2, 2
+  size: 217, 232
+  orig: 217, 233
+  offset: 0, 1
+  index: -1
+2b
+  rotate: false
+  xy: 236, 111
+  size: 80, 108
+  orig: 80, 108
+  offset: 0, 0
+  index: -1
+2c
+  rotate: false
+  xy: 236, 82
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1

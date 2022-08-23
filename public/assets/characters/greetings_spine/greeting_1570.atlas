@@ -1,0 +1,27 @@
+
+greeting_1570.png
+size: 424, 388
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+greeting_1570
+  rotate: false
+  xy: 2, 133
+  size: 420, 255
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+greeting_1570_1
+  rotate: true
+  xy: 2, 4
+  size: 127, 164
+  orig: 127, 164
+  offset: 0, 0
+  index: -1
+greeting_1570_2
+  rotate: false
+  xy: 168, 41
+  size: 95, 90
+  orig: 95, 90
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,92 @@
+{
+"skeleton": { "hash": "BSXn2JRGWWg", "spine": "3.8-from-4.0.56", "x": -292, "y": -128, "width": 551, "height": 264.5 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "head", "parent": "root", "y": -37.5 },
+	{ "name": "bush1", "parent": "root", "x": 148.5 },
+	{ "name": "bush2", "parent": "root", "x": -185.5 }
+],
+"slots": [
+	{ "name": "1670", "bone": "root", "attachment": "1670" },
+	{ "name": "1670_1", "bone": "bush2", "attachment": "1670_1" },
+	{ "name": "1670_2", "bone": "bush1", "attachment": "1670_2" },
+	{ "name": "1670_3", "bone": "head", "attachment": "1670_3" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1670": {
+				"1670": { "width": 512, "height": 256 }
+			},
+			"1670_1": {
+				"1670_1": { "x": 14.5, "width": 242, "height": 251 }
+			},
+			"1670_2": {
+				"1670_2": { "x": 0.5, "width": 220, "height": 244 }
+			},
+			"1670_3": {
+				"1670_3": { "y": 57.5, "width": 217, "height": 233 }
+			}
+		}
+	}
+],
+"animations": {
+	"emote": {
+		"slots": {
+			"1670_3": {
+				"color": [
+					{ "time": 2.3333, "color": "ffffffff" },
+					{ "time": 2.8, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 3.6667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"head": {
+				"translate": [
+					{ "y": 1, "curve": "stepped" },
+					{ "time": 0.3333, "y": 1 },
+					{ "time": 2, "y": 7 }
+				],
+				"scale": [
+					{ "time": 0.3333 },
+					{ "time": 2, "x": 0.778, "y": 0.778 }
+				]
+			},
+			"bush1": {
+				"translate": [
+					{ "x": -5, "y": 13, "curve": "stepped" },
+					{ "time": 1, "x": -5, "y": 13 },
+					{ "time": 2.6667, "x": -73, "y": 13 }
+				],
+				"scale": [
+					{ "x": 0.522, "y": 0.826, "curve": "stepped" },
+					{ "time": 1, "x": 0.522, "y": 0.826 },
+					{ "time": 2.6667, "y": 0.826 }
+				]
+			},
+			"bush2": {
+				"translate": [
+					{ "x": 27, "y": 12, "curve": "stepped" },
+					{ "time": 1, "x": 27, "y": 12 },
+					{ "time": 2.6667, "x": 94, "y": 12 }
+				],
+				"scale": [
+					{ "x": 0.569, "y": 0.813, "curve": "stepped" },
+					{ "time": 1, "x": 0.569, "y": 0.813 },
+					{ "time": 2.6667, "x": 0.976, "y": 0.813 }
+				]
+			}
+		},
+		"drawOrder": [
+			{
+				"time": 0.6,
+				"offsets": [
+					{ "slot": "1670_3", "offset": -2 }
+				]
+			}
+		]
+	}
+}
+}

@@ -1,0 +1,104 @@
+
+hahmo_orkki_frozen.png
+size: 511,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: false
+  xy: 276, 174
+  size: 113, 154
+  orig: 113, 154
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 141, 168
+  size: 133, 160
+  orig: 133, 160
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: false
+  xy: 2, 170
+  size: 137, 158
+  orig: 137, 158
+  offset: 0, 0
+  index: -1
+hand_Rside
+  rotate: true
+  xy: 250, 95
+  size: 71, 119
+  orig: 71, 119
+  offset: 0, 0
+  index: -1
+hand_left_b
+  rotate: true
+  xy: 2, 95
+  size: 73, 122
+  orig: 73, 123
+  offset: 0, 1
+  index: -1
+hand_left_f
+  rotate: false
+  xy: 391, 210
+  size: 77, 118
+  orig: 77, 118
+  offset: 0, 0
+  index: -1
+hand_right_b
+  rotate: true
+  xy: 126, 93
+  size: 73, 122
+  orig: 73, 123
+  offset: 0, 1
+  index: -1
+hand_right_f
+  rotate: true
+  xy: 391, 131
+  size: 77, 118
+  orig: 77, 118
+  offset: 0, 0
+  index: -1
+leg_Rside
+  rotate: true
+  xy: 371, 62
+  size: 67, 95
+  orig: 67, 95
+  offset: 0, 0
+  index: -1
+leg_Rside_2
+  rotate: true
+  xy: 371, 62
+  size: 67, 95
+  orig: 67, 95
+  offset: 0, 0
+  index: -1
+leg_left_b
+  rotate: true
+  xy: 2, 31
+  size: 62, 99
+  orig: 62, 99
+  offset: 0, 0
+  index: -1
+leg_left_f
+  rotate: true
+  xy: 103, 32
+  size: 59, 98
+  orig: 59, 98
+  offset: 0, 0
+  index: -1
+leg_right_b
+  rotate: true
+  xy: 250, 31
+  size: 62, 99
+  orig: 62, 99
+  offset: 0, 0
+  index: -1
+leg_right_f
+  rotate: true
+  xy: 351, 2
+  size: 58, 98
+  orig: 58, 98
+  offset: 0, 0
+  index: -1

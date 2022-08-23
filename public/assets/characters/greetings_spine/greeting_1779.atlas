@@ -1,0 +1,34 @@
+
+greeting_1779.png
+size: 490, 476
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+greeting_1777
+  rotate: false
+  xy: 2, 231
+  size: 420, 243
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+greeting_1779
+  rotate: false
+  xy: 2, 2
+  size: 220, 227
+  orig: 220, 229
+  offset: 0, 2
+  index: -1
+greeting_1779_1
+  rotate: false
+  xy: 224, 68
+  size: 135, 161
+  orig: 135, 161
+  offset: 0, 0
+  index: -1
+greeting_1779_2
+  rotate: false
+  xy: 361, 94
+  size: 127, 135
+  orig: 127, 136
+  offset: 0, 0
+  index: -1

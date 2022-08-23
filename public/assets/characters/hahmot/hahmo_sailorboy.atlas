@@ -1,0 +1,104 @@
+
+hahmo_sailorboy.png
+size: 506,314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: false
+  xy: 274, 150
+  size: 116, 162
+  orig: 116, 162
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 138, 151
+  size: 134, 161
+  orig: 134, 161
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: false
+  xy: 2, 150
+  size: 134, 162
+  orig: 134, 162
+  offset: 0, 0
+  index: -1
+hand_Rside
+  rotate: false
+  xy: 392, 200
+  size: 67, 112
+  orig: 67, 112
+  offset: 0, 0
+  index: -1
+hand_left_b
+  rotate: true
+  xy: 138, 85
+  size: 64, 117
+  orig: 64, 117
+  offset: 0, 0
+  index: -1
+hand_left_f
+  rotate: true
+  xy: 257, 82
+  size: 66, 112
+  orig: 66, 112
+  offset: 0, 0
+  index: -1
+hand_right_b
+  rotate: true
+  xy: 2, 84
+  size: 64, 117
+  orig: 64, 117
+  offset: 0, 0
+  index: -1
+hand_right_f
+  rotate: true
+  xy: 392, 131
+  size: 67, 112
+  orig: 67, 112
+  offset: 0, 0
+  index: -1
+leg_Rside
+  rotate: true
+  xy: 371, 64
+  size: 65, 91
+  orig: 65, 91
+  offset: 0, 0
+  index: -1
+leg_Rside_2
+  rotate: true
+  xy: 371, 64
+  size: 65, 91
+  orig: 65, 91
+  offset: 0, 0
+  index: -1
+leg_left_b
+  rotate: true
+  xy: 121, 23
+  size: 60, 97
+  orig: 60, 97
+  offset: 0, 0
+  index: -1
+leg_left_f
+  rotate: true
+  xy: 2, 22
+  size: 60, 97
+  orig: 60, 97
+  offset: 0, 0
+  index: -1
+leg_right_b
+  rotate: true
+  xy: 220, 20
+  size: 60, 97
+  orig: 60, 97
+  offset: 0, 0
+  index: -1
+leg_right_f
+  rotate: true
+  xy: 319, 2
+  size: 60, 97
+  orig: 60, 97
+  offset: 0, 0
+  index: -1

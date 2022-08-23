@@ -1,0 +1,104 @@
+
+hahmo_sailorgirl.png
+size: 512,313
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: false
+  xy: 280, 148
+  size: 116, 163
+  orig: 116, 163
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 144, 149
+  size: 134, 162
+  orig: 134, 162
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: false
+  xy: 2, 148
+  size: 140, 163
+  orig: 140, 163
+  offset: 0, 0
+  index: -1
+hand_Rside
+  rotate: false
+  xy: 398, 199
+  size: 67, 112
+  orig: 67, 112
+  offset: 0, 0
+  index: -1
+hand_left_b
+  rotate: true
+  xy: 144, 83
+  size: 64, 117
+  orig: 64, 117
+  offset: 0, 0
+  index: -1
+hand_left_f
+  rotate: true
+  xy: 263, 80
+  size: 66, 112
+  orig: 66, 112
+  offset: 0, 0
+  index: -1
+hand_right_b
+  rotate: true
+  xy: 2, 82
+  size: 64, 117
+  orig: 64, 117
+  offset: 0, 0
+  index: -1
+hand_right_f
+  rotate: true
+  xy: 398, 130
+  size: 67, 112
+  orig: 67, 112
+  offset: 0, 0
+  index: -1
+leg_Rside
+  rotate: true
+  xy: 319, 2
+  size: 62, 90
+  orig: 62, 91
+  offset: 0, 1
+  index: -1
+leg_Rside_2
+  rotate: true
+  xy: 319, 2
+  size: 62, 90
+  orig: 62, 91
+  offset: 0, 1
+  index: -1
+leg_left_b
+  rotate: true
+  xy: 2, 20
+  size: 60, 96
+  orig: 60, 96
+  offset: 0, 0
+  index: -1
+leg_left_f
+  rotate: true
+  xy: 377, 66
+  size: 62, 98
+  orig: 62, 98
+  offset: 0, 0
+  index: -1
+leg_right_b
+  rotate: true
+  xy: 221, 18
+  size: 60, 96
+  orig: 60, 96
+  offset: 0, 0
+  index: -1
+leg_right_f
+  rotate: true
+  xy: 121, 19
+  size: 62, 98
+  orig: 62, 98
+  offset: 0, 0
+  index: -1

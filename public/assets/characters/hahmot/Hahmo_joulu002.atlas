@@ -1,0 +1,138 @@
+
+Hahmo_joulu002.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: true
+  xy: 2, 2
+  size: 98, 156
+  orig: 98, 156
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 2, 102
+  size: 121, 148
+  orig: 121, 148
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: false
+  xy: 125, 102
+  size: 121, 148
+  orig: 121, 148
+  offset: 0, 0
+  index: -1
+hand_Rside
+  rotate: false
+  xy: 374, 151
+  size: 61, 99
+  orig: 61, 99
+  offset: 0, 0
+  index: -1
+hand_left_b
+  rotate: false
+  xy: 248, 149
+  size: 61, 101
+  orig: 61, 101
+  offset: 0, 0
+  index: -1
+hand_right_f
+  rotate: false
+  xy: 248, 149
+  size: 61, 101
+  orig: 61, 101
+  offset: 0, 0
+  index: -1
+hand_left_f
+  rotate: false
+  xy: 311, 149
+  size: 61, 101
+  orig: 61, 101
+  offset: 0, 0
+  index: -1
+hand_right_b
+  rotate: false
+  xy: 311, 149
+  size: 61, 101
+  orig: 61, 101
+  offset: 0, 0
+  index: -1
+leg_Rside
+  rotate: false
+  xy: 160, 14
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+leg_Rside_2
+  rotate: false
+  xy: 437, 164
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+leg_left_b
+  rotate: true
+  xy: 248, 92
+  size: 55, 86
+  orig: 55, 86
+  offset: 0, 0
+  index: -1
+leg_right_f
+  rotate: true
+  xy: 248, 92
+  size: 55, 86
+  orig: 55, 86
+  offset: 0, 0
+  index: -1
+leg_left_f
+  rotate: true
+  xy: 223, 35
+  size: 55, 86
+  orig: 55, 86
+  offset: 0, 0
+  index: -1
+leg_right_b
+  rotate: true
+  xy: 223, 35
+  size: 55, 86
+  orig: 55, 86
+  offset: 0, 0
+  index: -1
+head_Lside
+rotate: false
+xy: 1, 1
+size: 87, 83
+orig: 87, 83
+offset: 0, 0
+index: -1
+head_Rside
+rotate: false
+xy: 1, 1
+size: 87, 83
+orig: 87, 83
+offset: 0, 0
+index: -1
+head_b
+rotate: false
+xy: 1, 1
+size: 88, 84
+orig: 88, 84
+offset: 0, 0
+index: -1
+head_f
+rotate: false
+xy: 1, 1
+size: 88, 84
+orig: 88, 84
+offset: 0, 0
+index: -1
+muumipappa
+rotate: false
+xy: 1, 1
+size: 81, 79
+orig: 81, 79
+offset: 0, 0
+index: -1

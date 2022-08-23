@@ -1,0 +1,41 @@
+
+greeting_1407.png
+size: 424,381
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 2, 125
+  size: 420, 254
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+4a
+  rotate: true
+  xy: 2, 11
+  size: 112, 123
+  orig: 112, 123
+  offset: 0, 0
+  index: -1
+4b
+  rotate: false
+  xy: 127, 55
+  size: 127, 68
+  orig: 128, 68
+  offset: 1, 0
+  index: -1
+4c
+  rotate: false
+  xy: 256, 66
+  size: 137, 57
+  orig: 137, 57
+  offset: 0, 0
+  index: -1
+4d
+  rotate: false
+  xy: 256, 2
+  size: 91, 62
+  orig: 91, 62
+  offset: 0, 0
+  index: -1

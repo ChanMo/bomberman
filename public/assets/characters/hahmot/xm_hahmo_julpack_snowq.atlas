@@ -1,0 +1,104 @@
+
+xm_hahmo_julpack_snowq.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: true
+  xy: 101, 164
+  size: 70, 107
+  orig: 101, 161
+  offset: 15, 12
+  index: -1
+body_b
+  rotate: false
+  xy: 79, 22
+  size: 76, 108
+  orig: 125, 153
+  offset: 24, 22
+  index: -1
+body_f
+  rotate: false
+  xy: 2, 9
+  size: 75, 121
+  orig: 125, 153
+  offset: 24, 2
+  index: -1
+hand_Rside
+  rotate: true
+  xy: 157, 2
+  size: 59, 102
+  orig: 63, 102
+  offset: 0, 0
+  index: -1
+hand_left_b
+  rotate: false
+  xy: 220, 72
+  size: 60, 99
+  orig: 62, 104
+  offset: 2, 5
+  index: -1
+hand_left_f
+  rotate: false
+  xy: 157, 63
+  size: 61, 99
+  orig: 62, 104
+  offset: 0, 5
+  index: -1
+hand_right_b
+  rotate: true
+  xy: 261, 10
+  size: 60, 99
+  orig: 62, 104
+  offset: 0, 5
+  index: -1
+hand_right_f
+  rotate: true
+  xy: 210, 173
+  size: 61, 99
+  orig: 62, 104
+  offset: 1, 5
+  index: -1
+leg_Rside
+  rotate: true
+  xy: 2, 132
+  size: 102, 97
+  orig: 125, 153
+  offset: 21, 12
+  index: -1
+leg_Rside_2
+  rotate: true
+  xy: 2, 132
+  size: 102, 97
+  orig: 125, 153
+  offset: 21, 12
+  index: -1
+leg_left_b
+  rotate: false
+  xy: 342, 90
+  size: 60, 84
+  orig: 65, 88
+  offset: 5, 0
+  index: -1
+leg_left_f
+  rotate: false
+  xy: 282, 83
+  size: 58, 88
+  orig: 65, 88
+  offset: 0, 0
+  index: -1
+leg_right_b
+  rotate: false
+  xy: 362, 4
+  size: 60, 84
+  orig: 65, 88
+  offset: 0, 0
+  index: -1
+leg_right_f
+  rotate: true
+  xy: 311, 176
+  size: 58, 88
+  orig: 65, 88
+  offset: 7, 0
+  index: -1

@@ -1,0 +1,64 @@
+{
+"skeleton": { "hash": "RS/LTLK5AiA", "spine": "3.8-from-4.0.39", "x": -256, "y": -128, "width": 512, "height": 256 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "hands", "parent": "root", "x": 5, "y": -77.5 },
+	{ "name": "teeth", "parent": "root", "x": 5, "y": -46.5 },
+	{ "name": "bone", "parent": "root", "x": 5, "y": -4.5 }
+],
+"slots": [
+	{ "name": "1", "bone": "root", "attachment": "1" },
+	{ "name": "1a", "bone": "hands", "attachment": "1a" },
+	{ "name": "1b", "bone": "teeth", "attachment": "1b" },
+	{ "name": "1c", "bone": "bone", "attachment": "1c" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1": {
+				"1": { "width": 512, "height": 256 }
+			},
+			"1a": {
+				"1a": { "y": 3, "width": 115, "height": 64 }
+			},
+			"1b": {
+				"1b": { "y": -2, "width": 75, "height": 28 }
+			},
+			"1c": {
+				"1c": { "x": -2, "y": 4, "width": 128, "height": 68 }
+			}
+		}
+	}
+],
+"animations": {
+	"emote": {
+		"bones": {
+			"bone": {
+				"translate": [
+					{ "x": 0.88, "y": 0.88 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.2667, "x": 1.067, "y": 1.067 },
+					{ "time": 0.5333 }
+				]
+			},
+			"hands": {
+				"translate": [
+					{ "x": 1.75, "y": -19.29 }
+				]
+			},
+			"teeth": {
+				"translate": [
+					{ "y": -5.26 },
+					{ "time": 0.1333, "y": -2.63 },
+					{ "time": 0.2667, "y": -5.26 },
+					{ "time": 0.4, "y": -2.63 },
+					{ "time": 0.5333, "y": -5.26 }
+				]
+			}
+		}
+	}
+}
+}

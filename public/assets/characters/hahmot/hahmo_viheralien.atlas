@@ -1,0 +1,138 @@
+
+hahmo_viheralien.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: true
+  xy: 2, 6
+  size: 98, 156
+  orig: 98, 156
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 2, 106
+  size: 121, 148
+  orig: 121, 148
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: false
+  xy: 125, 106
+  size: 121, 148
+  orig: 121, 148
+  offset: 0, 0
+  index: -1
+hand_Rside
+  rotate: false
+  xy: 160, 5
+  size: 61, 99
+  orig: 40, 75
+  offset: -20, -15
+  index: -1
+hand_left_b
+  rotate: false
+  xy: 248, 153
+  size: 61, 101
+  orig: 40, 85
+  offset: -20, -15
+  index: -1
+hand_left_f
+  rotate: false
+  xy: 311, 153
+  size: 61, 101
+  orig: 40, 85
+  offset: 0, -15
+  index: -1
+hand_right_b
+  rotate: false
+  xy: 374, 153
+  size: 61, 101
+  orig: 40, 85
+  offset: 0, -15
+  index: -1
+hand_right_f
+  rotate: false
+  xy: 437, 153
+  size: 61, 101
+  orig: 40, 85
+  offset: -20, -15
+  index: -1
+leg_Rside
+  rotate: true
+  xy: 248, 90
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+leg_Rside_2
+  rotate: false
+  xy: 223, 2
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+leg_left_b
+  rotate: false
+  xy: 286, 2
+  size: 55, 86
+  orig: 55, 86
+  offset: 0, 0
+  index: -1
+leg_left_f
+  rotate: true
+  xy: 336, 96
+  size: 55, 86
+  orig: 55, 86
+  offset: 0, 0
+  index: -1
+leg_right_b
+  rotate: true
+  xy: 424, 96
+  size: 55, 86
+  orig: 55, 86
+  offset: 0, 0
+  index: -1
+leg_right_f
+  rotate: false
+  xy: 343, 8
+  size: 55, 86
+  orig: 55, 86
+  offset: 0, 0
+  index: -1
+head_Lside
+rotate: false
+xy: 1, 1
+size: 87, 83
+orig: 87, 83
+offset: 0, 0
+index: -1
+head_Rside
+rotate: false
+xy: 1, 1
+size: 87, 83
+orig: 87, 83
+offset: 0, 0
+index: -1
+head_b
+rotate: false
+xy: 1, 1
+size: 88, 84
+orig: 88, 84
+offset: 0, 0
+index: -1
+head_f
+rotate: false
+xy: 1, 1
+size: 88, 84
+orig: 88, 84
+offset: 0, 0
+index: -1
+muumipappa
+rotate: false
+xy: 1, 1
+size: 81, 79
+orig: 81, 79
+offset: 0, 0
+index: -1

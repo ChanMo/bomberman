@@ -1,0 +1,140 @@
+
+hahmo_giant_bandit.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: true
+  xy: 2, 2
+  size: 99, 159
+  orig: 80, 159
+  offset: -12, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 2, 103
+  size: 123, 150
+  orig: 90, 150
+  offset: -12, -3
+  index: -1
+body_f
+  rotate: false
+  xy: 127, 103
+  size: 123, 150
+  orig: 110, 150
+  offset: -8, 0
+  index: -1
+hand_Rside
+  rotate: false
+  xy: 252, 152
+  size: 62, 101
+  orig: 32, 80
+  offset: -15, 0
+  index: -1
+hand_left_b
+  rotate: true
+  xy: 316, 192
+  size: 61, 102
+  orig: 37, 80
+  offset: -32, 0
+  index: -1
+hand_left_f
+  rotate: true
+  xy: 316, 129
+  size: 61, 102
+  orig: 37, 80
+  offset: 0, -7
+  index: -1
+hand_right_b
+  rotate: false
+  xy: 284, 25
+  size: 61, 102
+  orig: 37, 80
+  offset: 12, 0
+  index: -1
+hand_right_f
+  rotate: false
+  xy: 347, 25
+  size: 61, 102
+  orig: 37, 80
+  offset: -28, -7
+  index: -1
+leg_Rside
+  rotate: false
+  xy: 163, 13
+  size: 61, 88
+  orig: 40, 88
+  offset: 0, 0
+  index: -1
+leg_Rside_2
+  rotate: false
+  xy: 163, 13
+  size: 61, 88
+  orig: 40, 88
+  offset: -10, 0
+  index: -1
+leg_left_b
+  rotate: true
+  xy: 420, 197
+  size: 56, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+leg_left_f
+  rotate: true
+  xy: 420, 139
+  size: 56, 87
+  orig: 50, 87
+  offset: -3, 0
+  index: -1
+leg_right_b
+  rotate: false
+  xy: 226, 14
+  size: 56, 87
+  orig: 48, 87
+  offset: 5, 0
+  index: -1
+leg_right_f
+  rotate: true
+  xy: 420, 81
+  size: 56, 87
+  orig: 50, 87
+  offset: -10, 0
+  index: -1
+head_Lside
+	rotate: false
+	xy: 1, 1
+	size: 87, 83
+	orig: 87, 83
+	offset: 0, 10
+	index: -1
+head_Rside
+	rotate: false
+	xy: 1, 1
+	size: 87, 83
+	orig: 87, 83
+	offset: 0, 10
+	index: -1
+head_b
+	rotate: false
+	xy: 1, 1
+	size: 88, 84
+	orig: 88, 84
+	offset: 0, 10
+	index: -1
+head_f
+	rotate: false
+	xy: 1, 1
+	size: 88, 84
+	orig: 88, 84
+	offset: 0, 10
+	index: -1
+muumipappa
+	rotate: false
+	xy: 1, 1
+	size: 81, 79
+	orig: 81, 79
+	offset: 0, 0
+	index: -1
+
+

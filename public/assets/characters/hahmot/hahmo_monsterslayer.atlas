@@ -1,0 +1,104 @@
+
+hahmo_monsterslayer.png
+size: 379,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: true
+  xy: 2, 2
+  size: 142, 178
+  orig: 143, 178
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 2, 316
+  size: 164, 178
+  orig: 165, 179
+  offset: 0, 1
+  index: -1
+body_f
+  rotate: false
+  xy: 2, 146
+  size: 167, 168
+  orig: 167, 168
+  offset: 0, 0
+  index: -1
+hand_Rside
+  rotate: false
+  xy: 168, 378
+  size: 76, 116
+  orig: 76, 117
+  offset: 0, 1
+  index: -1
+hand_left_b
+  rotate: false
+  xy: 171, 258
+  size: 72, 118
+  orig: 72, 118
+  offset: 0, 0
+  index: -1
+hand_left_f
+  rotate: false
+  xy: 182, 20
+  size: 70, 116
+  orig: 70, 116
+  offset: 0, 0
+  index: -1
+hand_right_b
+  rotate: false
+  xy: 182, 138
+  size: 72, 118
+  orig: 72, 118
+  offset: 0, 0
+  index: -1
+hand_right_f
+  rotate: false
+  xy: 245, 260
+  size: 70, 116
+  orig: 70, 116
+  offset: 0, 0
+  index: -1
+leg_Rside
+  rotate: false
+  xy: 246, 402
+  size: 67, 92
+  orig: 67, 92
+  offset: 0, 0
+  index: -1
+leg_Rside_2
+  rotate: false
+  xy: 246, 402
+  size: 67, 92
+  orig: 67, 92
+  offset: 0, 0
+  index: -1
+leg_left_b
+  rotate: false
+  xy: 315, 399
+  size: 60, 95
+  orig: 60, 96
+  offset: 0, 0
+  index: -1
+leg_left_f
+  rotate: false
+  xy: 254, 37
+  size: 62, 99
+  orig: 62, 100
+  offset: 0, 1
+  index: -1
+leg_right_b
+  rotate: false
+  xy: 317, 302
+  size: 60, 95
+  orig: 60, 96
+  offset: 0, 0
+  index: -1
+leg_right_f
+  rotate: false
+  xy: 256, 159
+  size: 62, 99
+  orig: 62, 100
+  offset: 0, 1
+  index: -1

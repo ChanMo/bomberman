@@ -1,0 +1,27 @@
+
+greeting_1733.png
+size: 424, 355
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+greeting_1733
+  rotate: false
+  xy: 2, 100
+  size: 420, 253
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+greeting_1733_1
+  rotate: false
+  xy: 117, 21
+  size: 92, 77
+  orig: 93, 77
+  offset: 0, 0
+  index: -1
+greeting_1733_2
+  rotate: false
+  xy: 2, 2
+  size: 113, 96
+  orig: 113, 96
+  offset: 0, 0
+  index: -1

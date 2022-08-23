@@ -1,0 +1,76 @@
+{
+  "maps" : 
+  [
+  	{
+  		"id" : 1,
+  		"name" : "map1",
+  		"players" : 4
+  	},
+  	{
+  		"id" : 2,
+  		"name" : "map2",
+  		"players" : 4
+  	},
+	{
+  		"id" : 3,
+  		"name" : "map3",
+  		"players" : 4
+  	},
+	{
+  		"id" : 4,
+  		"name" : "map_shield",
+  		"players" : 4
+  	},
+	{
+  		"id" : 5,
+  		"name" : "map4",
+  		"players" : 4
+  	},
+	{
+  		"id" : 6,
+  		"name" : "map_water1",
+  		"players" : 4
+  	},
+	{
+  		"id" : 7,
+  		"name" : "map_throwbomb1",
+  		"players" : 4
+  	},
+	{
+  		"id" : 8,
+  		"name" : "map_throwbomb2",
+  		"players" : 4
+  	},
+	{
+  		"id" : 9,
+  		"name" : "map5",
+  		"players" : 4
+  	},
+	{
+  		"id" : 11,
+  		"name" : "map_laser2",
+  		"players" : 4
+  	},
+	{
+  		"id" : 12,
+  		"name" : "map_water2",
+  		"players" : 4
+  	},
+	{
+  		"id" : 50,
+  		"name" : "big1",
+  		"players" : 8
+  	},
+	{
+  		"id" : 51,
+  		"name" : "big2",
+  		"players" : 8
+  	},
+	{
+  		"id" : 52,
+  		"name" : "big3",
+  		"players" : 8
+  	}
+  ]
+
+}

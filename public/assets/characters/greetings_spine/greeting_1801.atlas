@@ -1,0 +1,41 @@
+
+greeting_1801.png
+size: 466, 424
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+greeting_1801
+  rotate: true
+  xy: 2, 2
+  size: 420, 243
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+greeting_1801_a
+  rotate: false
+  xy: 247, 190
+  size: 217, 232
+  orig: 217, 233
+  offset: 0, 1
+  index: -1
+greeting_1801_b
+  rotate: false
+  xy: 247, 40
+  size: 114, 148
+  orig: 114, 149
+  offset: 0, 1
+  index: -1
+greeting_1801_c
+  rotate: false
+  xy: 324, 19
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+greeting_1801_d
+  rotate: false
+  xy: 247, 10
+  size: 75, 28
+  orig: 75, 28
+  offset: 0, 0
+  index: -1

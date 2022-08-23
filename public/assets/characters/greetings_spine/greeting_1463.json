@@ -1,0 +1,85 @@
+{
+"skeleton": { "hash": "u56Y+Q3Beqf6e0N57Y2A5LzhrYg", "spine": "3.8.99", "x": -256, "y": -128, "width": 512, "height": 256 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "head", "parent": "root", "x": -2.5, "y": 37 },
+	{ "name": "lefthand", "parent": "head", "x": 157, "y": -40 },
+	{ "name": "righthand", "parent": "head", "x": -162, "y": -49 },
+	{ "name": "jaw", "parent": "head", "x": 4, "y": -96 }
+],
+"slots": [
+	{ "name": "4", "bone": "root", "attachment": "4" },
+	{ "name": "4a", "bone": "jaw", "attachment": "4a" },
+	{ "name": "4b", "bone": "head", "attachment": "4b" },
+	{ "name": "4c", "bone": "righthand", "attachment": "4c" },
+	{ "name": "4c2", "bone": "lefthand", "attachment": "4c" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"4": {
+				"4": { "width": 512, "height": 256 }
+			},
+			"4a": {
+				"4a": { "x": -4, "y": 23, "width": 136, "height": 107 }
+			},
+			"4b": {
+				"4b": { "x": -3, "y": 9, "width": 160, "height": 152 }
+			},
+			"4c": {
+				"4c": { "x": 16, "y": 27, "width": 154, "height": 134 }
+			},
+			"4c2": {
+				"4c": { "x": -14, "y": 28, "scaleX": -1, "width": 154, "height": 134 }
+			}
+		}
+	}
+],
+"animations": {
+	"emote": {
+		"bones": {
+			"jaw": {
+				"translate": [
+					{ "x": -1, "y": 3 },
+					{ "time": 0.2333, "x": 0.09, "y": -14.95 },
+					{ "time": 0.5, "x": -1, "y": 3 },
+					{ "time": 0.7667, "x": 0.09, "y": -14.95 },
+					{ "time": 1, "x": -1, "y": 3 }
+				]
+			},
+			"head": {
+				"rotate": [
+					{ "angle": 9.48 },
+					{ "time": 0.5, "angle": -13.86 },
+					{ "time": 1, "angle": 9.48 }
+				],
+				"translate": [
+					{ "x": -15, "y": -3 },
+					{ "time": 0.5, "x": 14, "y": -3 },
+					{ "time": 1, "x": -15, "y": -3 }
+				]
+			},
+			"righthand": {
+				"rotate": [
+					{ "angle": 6.93 },
+					{ "time": 0.5, "angle": -12.12 },
+					{ "time": 1, "angle": 6.93 }
+				]
+			},
+			"lefthand": {
+				"rotate": [
+					{ "angle": -11.09 },
+					{ "time": 0.5, "angle": 31.11 },
+					{ "time": 1, "angle": -11.09 }
+				],
+				"translate": [
+					{ "x": 7.23, "y": -5.26 },
+					{ "time": 0.5, "x": -11.29, "y": 29.58 },
+					{ "time": 1, "x": 7.23, "y": -5.26 }
+				]
+			}
+		}
+	}
+}
+}

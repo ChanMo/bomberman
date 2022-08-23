@@ -1,0 +1,62 @@
+
+amppari.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+antenna
+  rotate: true
+  xy: 25, 24
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+deadeye
+  rotate: false
+  xy: 58, 15
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 101, 97
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 58, 32
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 25, 14
+  size: 8, 31
+  orig: 8, 31
+  offset: 0, 0
+  index: -1
+sting
+  rotate: false
+  xy: 2, 71
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+sting2
+  rotate: false
+  xy: 64, 73
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+wing
+  rotate: true
+  xy: 2, 6
+  size: 63, 21
+  orig: 63, 21
+  offset: 0, 0
+  index: -1

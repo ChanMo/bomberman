@@ -1,0 +1,78 @@
+{
+"skeleton": { "hash": "RXIei50PxE4", "spine": "3.8-from-4.0.56", "x": -256, "y": -128, "width": 512, "height": 256 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "hand", "parent": "root", "x": 105.5, "y": -108.5 },
+	{ "name": "helmet", "parent": "root", "x": -0.5, "y": 46.5 },
+	{ "name": "visor", "parent": "helmet", "x": 0.5, "y": -84.5 }
+],
+"slots": [
+	{ "name": "1666", "bone": "root", "attachment": "1666" },
+	{ "name": "1666_1", "bone": "visor", "attachment": "1666_1" },
+	{ "name": "1666_2", "bone": "helmet", "attachment": "1666_2" },
+	{ "name": "1666_3", "bone": "hand", "attachment": "1666_3" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1666": {
+				"1666": { "width": 512, "height": 256 }
+			},
+			"1666_1": {
+				"1666_1": { "y": 8, "width": 183, "height": 93 }
+			},
+			"1666_2": {
+				"1666_2": { "x": 0.5, "y": -47.5, "width": 221, "height": 230 }
+			},
+			"1666_3": {
+				"1666_3": { "x": -34, "y": 27, "width": 117, "height": 93 }
+			}
+		}
+	}
+],
+"animations": {
+	"emote": {
+		"slots": {
+			"1666_3": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4, "name": "1666_3" },
+					{ "time": 1.8, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"visor": {
+				"translate": [
+					{ "y": 83, "curve": "stepped" },
+					{ "time": 0.6667, "y": 83 },
+					{ "time": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.0667, "y": 1 },
+					{ "time": 2.4, "y": 83 }
+				]
+			},
+			"hand": {
+				"translate": [
+					{ "time": 0.4, "x": 20, "y": 18 },
+					{ "time": 0.6667, "x": -4.86, "y": 85.9 },
+					{ "time": 1, "x": -13.86, "y": -3.1, "curve": "stepped" },
+					{ "time": 1.4, "x": -13.86, "y": -3.1 },
+					{ "time": 1.7333, "x": 17.14, "y": 11.9 }
+				],
+				"scale": [
+					{ "time": 0.4, "x": 0.649, "y": 0.649 },
+					{ "time": 0.6667, "curve": "stepped" },
+					{ "time": 1.4 },
+					{ "time": 1.7333, "x": 0.503, "y": 0.503 }
+				]
+			},
+			"helmet": {
+				"translate": [
+					{ "y": -1 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,44 @@
+{
+"skeleton": { "hash": "OuBUfgTgfKg", "spine": "3.8-from-4.0.53", "x": -256, "y": -128, "width": 512, "height": 256 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "hands", "parent": "root", "x": 0.5, "y": -21 }
+],
+"slots": [
+	{ "name": "greeting_1639", "bone": "root", "attachment": "greeting_1639" },
+	{ "name": "greeting_1639_1", "bone": "hands", "attachment": "greeting_1639_1" },
+	{ "name": "greeting_1639_2", "bone": "hands", "attachment": "greeting_1639_1" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"greeting_1639": {
+				"greeting_1639": { "width": 512, "height": 256 }
+			},
+			"greeting_1639_1": {
+				"greeting_1639_1": { "x": -165.19, "y": 15.96, "width": 148, "height": 99 }
+			},
+			"greeting_1639_2": {
+				"greeting_1639_1": { "x": 164.47, "y": 13.42, "scaleX": -1, "width": 148, "height": 99 }
+			}
+		}
+	}
+],
+"animations": {
+	"emote": {
+		"bones": {
+			"hands": {
+				"rotate": [
+					{ "angle": -7.24 },
+					{ "time": 0.3333, "angle": 6.09 },
+					{ "time": 0.6667, "angle": -7.24 }
+				],
+				"translate": [
+					{ "y": 12 }
+				]
+			}
+		}
+	}
+}
+}

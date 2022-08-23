@@ -1,0 +1,34 @@
+
+greeting_1670.png
+size: 677, 467
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1670
+  rotate: false
+  xy: 2, 222
+  size: 420, 243
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+1670_1
+  rotate: true
+  xy: 424, 223
+  size: 242, 251
+  orig: 242, 251
+  offset: 0, 0
+  index: -1
+1670_2
+  rotate: true
+  xy: 2, 2
+  size: 218, 244
+  orig: 220, 244
+  offset: 0, 0
+  index: -1
+1670_3
+  rotate: true
+  xy: 248, 3
+  size: 217, 232
+  orig: 217, 233
+  offset: 0, 1
+  index: -1

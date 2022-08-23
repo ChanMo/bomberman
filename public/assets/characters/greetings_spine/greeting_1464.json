@@ -1,0 +1,87 @@
+{
+"skeleton": { "hash": "ODBxzr+WvhkvxrO9VWJZ4UxwGfM", "spine": "3.8.99", "x": -256, "y": -128, "width": 512, "height": 256 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "finger1", "parent": "root", "x": 63.5, "y": -81 },
+	{ "name": "finger2", "parent": "root", "x": 89.52, "y": -72.09 },
+	{ "name": "finger3", "parent": "root", "x": 116.14, "y": -74.03 },
+	{ "name": "finger4", "parent": "root", "x": 132.6, "y": -54.67 },
+	{ "name": "finger5", "parent": "root", "x": 153.89, "y": -46.44 }
+],
+"slots": [
+	{ "name": "5", "bone": "root", "attachment": "5" },
+	{ "name": "5d", "bone": "finger1", "attachment": "5d" },
+	{ "name": "5e", "bone": "finger5", "attachment": "5e" },
+	{ "name": "5c", "bone": "finger4", "attachment": "5c" },
+	{ "name": "5b", "bone": "finger3", "attachment": "5b" },
+	{ "name": "5a", "bone": "finger2", "attachment": "5a" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"5": {
+				"5": { "width": 512, "height": 256 }
+			},
+			"5a": {
+				"5a": { "x": 4.98, "y": -2.91, "width": 54, "height": 67 }
+			},
+			"5b": {
+				"5b": { "x": 0.36, "y": 1.03, "width": 53, "height": 74 }
+			},
+			"5c": {
+				"5c": { "x": 1.9, "y": 1.67, "width": 46, "height": 72 }
+			},
+			"5d": {
+				"5d": { "x": 4, "y": 2, "width": 44, "height": 43 }
+			},
+			"5e": {
+				"5e": { "x": 2.61, "y": 0.44, "width": 42, "height": 53 }
+			}
+		}
+	}
+],
+"animations": {
+	"emote": {
+		"bones": {
+			"finger1": {
+				"translate": [
+					{ "x": -2.58 }
+				]
+			},
+			"finger2": {
+				"translate": [
+					{ "x": -3.44, "y": 6.89, "curve": "stepped" },
+					{ "time": 0.5, "x": -3.44, "y": 6.89 },
+					{ "time": 0.8333, "x": -11.19, "y": 35.3 },
+					{ "time": 1.1667, "x": -3.44, "y": 6.89 }
+				]
+			},
+			"finger3": {
+				"translate": [
+					{ "y": 12.05, "curve": "stepped" },
+					{ "time": 0.3333, "y": 12.05 },
+					{ "time": 0.6667, "x": -5.17, "y": 42.19 },
+					{ "time": 1, "y": 12.05 }
+				]
+			},
+			"finger4": {
+				"translate": [
+					{ "x": 9.47, "y": -6.03, "curve": "stepped" },
+					{ "time": 0.1667, "x": 9.47, "y": -6.03 },
+					{ "time": 0.5, "x": 5.17, "y": 20.66 },
+					{ "time": 0.8333, "x": 9.47, "y": -6.03 }
+				]
+			},
+			"finger5": {
+				"translate": [
+					{ "x": 13.78, "y": -17.22 },
+					{ "time": 0.3333, "x": 10.68, "y": 9.47 },
+					{ "time": 0.6667, "x": 13.78, "y": -17.22, "curve": "stepped" },
+					{ "time": 1.3333, "x": 13.78, "y": -17.22 }
+				]
+			}
+		}
+	}
+}
+}

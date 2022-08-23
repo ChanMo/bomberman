@@ -1,0 +1,41 @@
+
+greeting_1317.png
+size: 424,466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 2, 221
+  size: 420, 243
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+4a
+  rotate: true
+  xy: 2, 2
+  size: 217, 232
+  orig: 217, 233
+  offset: 0, 1
+  index: -1
+4b
+  rotate: false
+  xy: 236, 2
+  size: 127, 56
+  orig: 127, 56
+  offset: 0, 0
+  index: -1
+4c
+  rotate: false
+  xy: 236, 60
+  size: 66, 66
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+4d
+  rotate: false
+  xy: 236, 162
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1

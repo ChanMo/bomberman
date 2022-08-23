@@ -1,0 +1,90 @@
+
+lohari.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 86
+  size: 116, 168
+  orig: 116, 168
+  offset: 0, 0
+  index: -1
+closedeyes
+  rotate: true
+  xy: 232, 150
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+deadeyes
+  rotate: true
+  xy: 482, 217
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 120, 86
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+foot
+  rotate: true
+  xy: 419, 199
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 68, 41
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+idlewing
+  rotate: true
+  xy: 263, 189
+  size: 65, 88
+  orig: 65, 88
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 68, 3
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+snout
+  rotate: false
+  xy: 120, 191
+  size: 141, 63
+  orig: 141, 63
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 353, 199
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+wingflap
+  rotate: true
+  xy: 2, 2
+  size: 82, 64
+  orig: 82, 64
+  offset: 0, 0
+  index: -1
+wingopen
+  rotate: false
+  xy: 120, 113
+  size: 110, 76
+  orig: 110, 76
+  offset: 0, 0
+  index: -1

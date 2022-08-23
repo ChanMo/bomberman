@@ -1,0 +1,20 @@
+
+greeting_1700.png
+size: 531, 259
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1700
+  rotate: false
+  xy: 2, 2
+  size: 420, 255
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+1700_1
+  rotate: false
+  xy: 424, 94
+  size: 105, 163
+  orig: 105, 163
+  offset: 0, 0
+  index: -1

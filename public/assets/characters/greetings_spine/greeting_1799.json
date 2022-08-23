@@ -1,0 +1,63 @@
+{
+"skeleton": { "hash": "xGxrKBGVeNk", "spine": "3.8-from-4.0.64", "x": -256, "y": -128, "width": 512, "height": 256 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "fan", "parent": "root", "x": -118.5, "y": -91 },
+	{ "name": "eye", "parent": "root", "x": -46.45, "y": 23.63 }
+],
+"slots": [
+	{ "name": "greeting_1799", "bone": "root", "attachment": "greeting_1799" },
+	{ "name": "greeting_1799_b", "bone": "eye", "attachment": "greeting_1799_b" },
+	{ "name": "greeting_1799_c", "bone": "fan", "attachment": "greeting_1799_c" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"greeting_1799": {
+				"greeting_1799": { "width": 512, "height": 256 }
+			},
+			"greeting_1799_b": {
+				"greeting_1799_a": { "x": -3.07, "y": 7.06, "width": 53, "height": 38 },
+				"greeting_1799_b": { "x": -3.07, "y": 8.06, "width": 59, "height": 37 }
+			},
+			"greeting_1799_c": {
+				"greeting_1799_c": { "x": 10, "y": 40, "width": 210, "height": 147 }
+			}
+		}
+	}
+],
+"animations": {
+	"emote": {
+		"slots": {
+			"greeting_1799_b": {
+				"attachment": [
+					{ "time": 0.6, "name": "greeting_1799_a" },
+					{ "time": 1.3333, "name": "greeting_1799_b" }
+				]
+			}
+		},
+		"bones": {
+			"fan": {
+				"rotate": [
+					{ "time": 0.3333 },
+					{ "time": 0.6667, "angle": 13.13 },
+					{ "time": 1 },
+					{ "time": 1.3333, "angle": 13.13 },
+					{ "time": 1.6667 }
+				],
+				"translate": [
+					{ "x": 25.61, "y": 5.39 },
+					{ "time": 0.3333, "x": 10.11, "y": -9.44 },
+					{ "time": 0.6667, "x": 10.11, "y": -8.09 },
+					{ "time": 1, "x": 10.11, "y": -9.44 },
+					{ "time": 1.3333, "x": 10.11, "y": -8.09 },
+					{ "time": 1.6667, "x": 10.11, "y": -9.44 },
+					{ "time": 2.3333, "x": 25.61, "y": 5.39, "curve": "stepped" },
+					{ "time": 2.6667, "x": 25.61, "y": 5.39 }
+				]
+			}
+		}
+	}
+}
+}

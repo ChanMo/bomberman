@@ -1,0 +1,104 @@
+
+hahmo_seamonster2.png
+size: 512,295
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: false
+  xy: 274, 133
+  size: 117, 160
+  orig: 117, 160
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 141, 132
+  size: 131, 161
+  orig: 131, 161
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: false
+  xy: 2, 133
+  size: 137, 160
+  orig: 137, 160
+  offset: 0, 0
+  index: -1
+hand_Rside
+  rotate: false
+  xy: 393, 179
+  size: 74, 114
+  orig: 74, 115
+  offset: 0, 1
+  index: -1
+hand_left_b
+  rotate: true
+  xy: 118, 66
+  size: 64, 116
+  orig: 64, 116
+  offset: 0, 0
+  index: -1
+hand_left_f
+  rotate: true
+  xy: 393, 111
+  size: 66, 114
+  orig: 66, 114
+  offset: 0, 0
+  index: -1
+hand_right_b
+  rotate: true
+  xy: 236, 66
+  size: 64, 116
+  orig: 64, 116
+  offset: 0, 0
+  index: -1
+hand_right_f
+  rotate: true
+  xy: 2, 65
+  size: 66, 114
+  orig: 66, 114
+  offset: 0, 0
+  index: -1
+leg_Rside
+  rotate: true
+  xy: 354, 40
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+leg_Rside_2
+  rotate: true
+  xy: 354, 40
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+leg_left_b
+  rotate: true
+  xy: 118, 2
+  size: 62, 96
+  orig: 62, 97
+  offset: 0, 1
+  index: -1
+leg_left_f
+  rotate: true
+  xy: 2, 3
+  size: 60, 99
+  orig: 61, 99
+  offset: 0, 0
+  index: -1
+leg_right_b
+  rotate: false
+  xy: 449, 13
+  size: 61, 96
+  orig: 62, 97
+  offset: 0, 1
+  index: -1
+leg_right_f
+  rotate: true
+  xy: 216, 4
+  size: 60, 99
+  orig: 61, 99
+  offset: 1, 0
+  index: -1

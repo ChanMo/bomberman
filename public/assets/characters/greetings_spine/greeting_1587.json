@@ -1,0 +1,86 @@
+{
+"skeleton": { "hash": "UxvO1eVjKIA", "spine": "3.8-from-4.0.45", "x": -211, "y": -122.5, "width": 422, "height": 256.5 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "head", "parent": "root", "y": -36.5 },
+	{ "name": "hand1", "parent": "root", "x": -143, "y": 17.5 },
+	{ "name": "hand2", "parent": "root", "x": 148, "y": -16.5 }
+],
+"slots": [
+	{ "name": "2", "bone": "root", "attachment": "2" },
+	{ "name": "2a", "bone": "head", "attachment": "2a" },
+	{ "name": "2b", "bone": "hand2", "attachment": "2b" },
+	{ "name": "2b2", "bone": "hand1", "attachment": "2b" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"2": {
+				"2": { "width": 422, "height": 245 }
+			},
+			"2a": {
+				"2a": { "x": -1, "y": 53.5, "width": 213, "height": 234 }
+			},
+			"2b": {
+				"2b": { "x": 3, "y": 10, "width": 79, "height": 88 }
+			},
+			"2b2": {
+				"2b": { "x": -3, "y": 10, "scaleX": -1, "width": 79, "height": 88 }
+			}
+		}
+	}
+],
+"animations": {
+	"emote": {
+		"bones": {
+			"head": {
+				"rotate": [
+					{ "angle": -4.12 },
+					{ "time": 1, "angle": 4.46 },
+					{ "time": 2, "angle": -4.12 }
+				],
+				"translate": [
+					{ "y": 9 },
+					{ "time": 0.2, "y": -3 },
+					{ "time": 0.4, "y": 9 },
+					{ "time": 0.6, "y": -3 },
+					{ "time": 0.8, "y": 9 },
+					{ "time": 1, "y": -3 },
+					{ "time": 1.2, "y": 9 },
+					{ "time": 1.4, "y": -3 },
+					{ "time": 1.6, "y": 9 },
+					{ "time": 1.8, "y": -3 },
+					{ "time": 2, "y": 9 }
+				]
+			},
+			"hand2": {
+				"translate": [
+					{ "x": -6, "y": -31 },
+					{ "time": 0.2, "x": -6, "y": -18 },
+					{ "time": 0.4, "x": -6, "y": -31 },
+					{ "time": 0.6, "x": -6, "y": -18 },
+					{ "time": 1, "x": -6, "y": 51 },
+					{ "time": 1.2, "x": -6, "y": 30 },
+					{ "time": 1.4, "x": -6, "y": 51 },
+					{ "time": 1.6, "x": -6, "y": 30 },
+					{ "time": 2, "x": -6, "y": -31 }
+				]
+			},
+			"hand1": {
+				"translate": [
+					{ "y": 1 },
+					{ "time": 0.2, "y": -16 },
+					{ "time": 0.4, "y": 1 },
+					{ "time": 0.6, "y": -16 },
+					{ "time": 1, "y": -54 },
+					{ "time": 1.2, "y": -44 },
+					{ "time": 1.4, "y": -54 },
+					{ "time": 1.6, "y": -44 },
+					{ "time": 2, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

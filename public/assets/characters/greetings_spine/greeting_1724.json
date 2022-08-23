@@ -1,0 +1,74 @@
+{
+"skeleton": { "hash": "MmO1soTRoJ0", "spine": "3.8-from-4.0.63", "x": -256, "y": -128, "width": 512, "height": 256 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "mouth", "parent": "root", "y": -47.66 },
+	{ "name": "hand vasen", "parent": "root", "x": -150.5, "y": -31 },
+	{ "name": "hand oikea", "parent": "root", "x": 148.5, "y": -30 }
+],
+"slots": [
+	{ "name": "1724", "bone": "root", "attachment": "1724" },
+	{ "name": "1724_1", "bone": "mouth", "attachment": "1724_1" },
+	{ "name": "1724_2", "bone": "hand oikea", "attachment": "1724_2" },
+	{ "name": "1724_3", "bone": "hand vasen", "attachment": "1724_2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1724": {
+				"1724": { "width": 512, "height": 256 }
+			},
+			"1724_1": {
+				"1724_1": { "y": -11.34, "width": 113, "height": 62 }
+			},
+			"1724_2": {
+				"1724_2": { "x": 20.53, "y": 5.41, "width": 120, "height": 100 }
+			},
+			"1724_3": {
+				"1724_2": { "x": -19.14, "y": 5.1, "scaleX": -1, "width": 120, "height": 100 }
+			}
+		}
+	}
+],
+"animations": {
+	"emote": {
+		"bones": {
+			"mouth": {
+				"translate": [
+					{ "y": -1.55 }
+				],
+				"scale": [
+					{ "y": 0.88 },
+					{ "time": 0.1667, "x": 1.027, "y": 1.091 },
+					{ "time": 0.3333, "y": 0.88 }
+				]
+			},
+			"hand oikea": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": -8.37 },
+					{ "time": 0.3333 }
+				],
+				"translate": [
+					{ "y": -4.52 },
+					{ "time": 0.1667, "x": 0.9, "y": -15.2 },
+					{ "time": 0.3333, "y": -4.52 }
+				]
+			},
+			"hand vasen": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": 9.86 },
+					{ "time": 0.3333 }
+				],
+				"translate": [
+					{ "y": -5.43 },
+					{ "time": 0.1667, "x": -5.61, "y": -14.84 },
+					{ "time": 0.3333, "y": -5.43 }
+				]
+			}
+		}
+	}
+}
+}

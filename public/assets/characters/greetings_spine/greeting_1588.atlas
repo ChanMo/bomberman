@@ -1,0 +1,27 @@
+
+greeting_1588.png
+size: 463, 424
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+3
+  rotate: true
+  xy: 2, 4
+  size: 420, 243
+  orig: 422, 245
+  offset: 1, 1
+  index: -1
+3a
+  rotate: true
+  xy: 247, 185
+  size: 239, 214
+  orig: 241, 216
+  offset: 1, 1
+  index: -1
+3b
+  rotate: true
+  xy: 247, 22
+  size: 161, 51
+  orig: 163, 53
+  offset: 1, 1
+  index: -1

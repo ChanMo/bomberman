@@ -1,0 +1,104 @@
+
+hahmo_prinsessa1.png
+size: 504,303
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: false
+  xy: 273, 139
+  size: 113, 162
+  orig: 113, 162
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 139, 137
+  size: 132, 164
+  orig: 132, 165
+  offset: 0, 1
+  index: -1
+body_f
+  rotate: false
+  xy: 2, 137
+  size: 135, 164
+  orig: 135, 164
+  offset: 0, 0
+  index: -1
+hand_Rside
+  rotate: true
+  xy: 2, 68
+  size: 67, 116
+  orig: 67, 116
+  offset: 0, 0
+  index: -1
+hand_left_b
+  rotate: true
+  xy: 120, 68
+  size: 67, 112
+  orig: 67, 113
+  offset: 0, 1
+  index: -1
+hand_left_f
+  rotate: false
+  xy: 388, 187
+  size: 71, 114
+  orig: 71, 115
+  offset: 0, 1
+  index: -1
+hand_right_b
+  rotate: true
+  xy: 234, 68
+  size: 67, 112
+  orig: 67, 113
+  offset: 0, 1
+  index: -1
+hand_right_f
+  rotate: true
+  xy: 388, 115
+  size: 70, 114
+  orig: 70, 115
+  offset: 0, 1
+  index: -1
+leg_Rside
+  rotate: true
+  xy: 2, 2
+  size: 64, 92
+  orig: 64, 92
+  offset: 0, 0
+  index: -1
+leg_Rside_2
+  rotate: true
+  xy: 2, 2
+  size: 64, 92
+  orig: 64, 92
+  offset: 0, 0
+  index: -1
+leg_left_b
+  rotate: true
+  xy: 96, 6
+  size: 60, 97
+  orig: 61, 97
+  offset: 0, 0
+  index: -1
+leg_left_f
+  rotate: false
+  xy: 447, 17
+  size: 55, 96
+  orig: 55, 96
+  offset: 0, 0
+  index: -1
+leg_right_b
+  rotate: true
+  xy: 348, 52
+  size: 61, 97
+  orig: 61, 97
+  offset: 0, 0
+  index: -1
+leg_right_f
+  rotate: true
+  xy: 195, 10
+  size: 56, 96
+  orig: 56, 96
+  offset: 0, 0
+  index: -1

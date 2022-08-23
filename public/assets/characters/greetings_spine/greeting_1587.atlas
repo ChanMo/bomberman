@@ -1,0 +1,27 @@
+
+greeting_1587.png
+size: 460, 424
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+2
+  rotate: true
+  xy: 2, 4
+  size: 420, 243
+  orig: 422, 245
+  offset: 1, 1
+  index: -1
+2a
+  rotate: false
+  xy: 247, 192
+  size: 211, 232
+  orig: 213, 234
+  offset: 1, 1
+  index: -1
+2b
+  rotate: false
+  xy: 247, 104
+  size: 77, 86
+  orig: 79, 88
+  offset: 1, 1
+  index: -1

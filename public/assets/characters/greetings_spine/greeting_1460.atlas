@@ -1,0 +1,20 @@
+
+greeting_1460.png
+size: 511,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 420, 251
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+1a
+  rotate: false
+  xy: 424, 122
+  size: 85, 131
+  orig: 85, 131
+  offset: 0, 0
+  index: -1

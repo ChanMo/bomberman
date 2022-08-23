@@ -1,0 +1,21 @@
+{
+  "animals": 4,
+  "walls": 0.45,
+  "minkeyposition": 0.4,
+  "monsterboxes":0,
+  "undestroyableboxes":0,
+  "slime":0,
+  "lava":0,
+  "monstertypes": [ "robotspider", "robotmini", "robotred", "robotred" ]
+}
+#######k###############################################
+#.....................#ooo#\148/#ooo#ooo#oooÄ##########o#m#
+#.#.#.#.#.#.#.#.#.#.#.#o#o#o#o#o#o#o#o#o#ooo#.#.#.Ä.#m#
+#.....................#o#o#o#o#o#o#o#o#o#o#o......Ä..m#
+#o#.#.#.#.#.#.#.#.#.#.#o#o#o#o#o#o#o#o#o#o#o#.#.#.Ä.#m#
+#1ooo-oooooooooooooooo#o#o#o#o#ooo#o#o#ooo#\148/......-\20/.D#
+#o#.#.#.#.#.#.#.#.#.#o#o#o#o#oÄ.#o#o#o###o#o#.#.#.Ä.#m#
+#ooo.................o#o#o#o#oÄ.#o#o#ooo#o#o......Ä..m#
+#.#o#.#.#.#.#.#.#.#.#o#o#o#o#oÄ.#m#o###o#o#o#.#.#.Ä.#m#
+#.o\13/.................oooPo¤o-oÄ.#mTo%ooo#ooo######Äo#m#
+#######################################################

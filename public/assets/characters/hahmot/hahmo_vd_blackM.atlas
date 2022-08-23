@@ -1,0 +1,139 @@
+
+hahmo_vd_blackM.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: true
+  xy: 2, 3
+  size: 94, 150
+  orig: 94, 150
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 2, 99
+  size: 116, 142
+  orig: 116, 142
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: false
+  xy: 120, 99
+  size: 116, 142
+  orig: 116, 142
+  offset: 0, 0
+  index: -1
+hand_Rside
+  rotate: false
+  xy: 154, 2
+  size: 58, 95
+  orig: 58, 95
+  offset: 0, 0
+  index: -1
+hand_left_b
+  rotate: false
+  xy: 238, 145
+  size: 58, 96
+  orig: 58, 96
+  offset: 0, 0
+  index: -1
+hand_left_f
+  rotate: false
+  xy: 298, 145
+  size: 58, 96
+  orig: 58, 96
+  offset: 0, 0
+  index: -1
+hand_right_b
+  rotate: false
+  xy: 358, 145
+  size: 58, 96
+  orig: 58, 96
+  offset: 0, 0
+  index: -1
+hand_right_f
+  rotate: false
+  xy: 418, 145
+  size: 58, 96
+  orig: 58, 96
+  offset: 0, 0
+  index: -1
+leg_Rside
+  rotate: true
+  xy: 238, 85
+  size: 58, 83
+  orig: 58, 83
+  offset: 0, 0
+  index: -1
+leg_Rside_2
+  rotate: true
+  xy: 238, 85
+  size: 58, 83
+  orig: 58, 83
+  offset: 0, 0
+  index: -1
+leg_left_b
+  rotate: true
+  xy: 323, 90
+  size: 53, 82
+  orig: 53, 82
+  offset: 0, 0
+  index: -1
+leg_left_f
+  rotate: true
+  xy: 407, 90
+  size: 53, 82
+  orig: 53, 82
+  offset: 0, 0
+  index: -1
+leg_right_b
+  rotate: true
+  xy: 214, 30
+  size: 53, 82
+  orig: 53, 82
+  offset: 0, 0
+  index: -1
+leg_right_f
+  rotate: true
+  xy: 323, 35
+  size: 53, 82
+  orig: 53, 82
+  offset: 0, 0
+  index: -1
+head_Lside
+rotate: false
+xy: 1, 1
+size: 87, 83
+orig: 87, 83
+offset: 0, 0
+index: -1
+head_Rside
+rotate: false
+xy: 1, 1
+size: 87, 83
+orig: 87, 83
+offset: 0, 0
+index: -1
+head_b
+rotate: false
+xy: 1, 1
+size: 88, 84
+orig: 88, 84
+offset: 0, 0
+index: -1
+head_f
+rotate: false
+xy: 1, 1
+size: 88, 84
+orig: 88, 84
+offset: 0, 0
+index: -1
+muumipappa
+rotate: false
+xy: 1, 1
+size: 81, 79
+orig: 81, 79
+offset: 0, 0
+index: -1
+

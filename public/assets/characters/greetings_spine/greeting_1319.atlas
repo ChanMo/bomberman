@@ -1,0 +1,48 @@
+
+greeting_1319.png
+size: 465,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 2
+  size: 421, 247
+  orig: 512, 256
+  offset: 38, 0
+  index: -1
+2a
+  rotate: true
+  xy: 425, 68
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+2b
+  rotate: false
+  xy: 425, 202
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+2c
+  rotate: false
+  xy: 425, 155
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+2d
+  rotate: false
+  xy: 425, 112
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+2e
+  rotate: false
+  xy: 425, 34
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1

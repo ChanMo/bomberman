@@ -1,0 +1,93 @@
+{
+"skeleton": { "hash": "gVGRHaWeR9o", "spine": "3.8-from-4.0.61", "x": -256, "y": -128, "width": 512, "height": 269 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "hand", "parent": "root", "x": -84.5, "y": -89 },
+	{ "name": "loop", "parent": "root", "x": -79.5, "y": 86 },
+	{ "name": "rope", "parent": "root", "x": -92.5, "y": -41 },
+	{ "name": "head", "parent": "root", "x": 56.5, "y": -44 },
+	{ "name": "knot", "parent": "root", "x": -149.5, "y": 47 }
+],
+"slots": [
+	{ "name": "1702", "bone": "root", "attachment": "1702" },
+	{ "name": "1703", "bone": "head", "attachment": "1703" },
+	{ "name": "1703_2", "bone": "rope", "attachment": "1703_2" },
+	{ "name": "1703_3", "bone": "loop", "attachment": "1703_3" },
+	{ "name": "1703_1", "bone": "hand", "attachment": "1703_1" },
+	{ "name": "1703_4", "bone": "knot", "attachment": "1703_4" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1702": {
+				"1702": { "width": 512, "height": 256 }
+			},
+			"1703": {
+				"1703": { "y": 60, "width": 195, "height": 210 }
+			},
+			"1703_1": {
+				"1703_1": { "x": 2, "y": 19, "width": 68, "height": 89 }
+			},
+			"1703_2": {
+				"1703_2": { "x": -27, "y": 40, "width": 86, "height": 105 }
+			},
+			"1703_3": {
+				"1703_3": { "x": 2, "y": 3, "width": 202, "height": 104 }
+			},
+			"1703_4": {
+				"1703_4": { "x": 1, "y": 3, "width": 37, "height": 37 }
+			}
+		}
+	}
+],
+"animations": {
+	"emote": {
+		"bones": {
+			"head": {
+				"translate": [
+					{ "x": 12, "y": -17 }
+				]
+			},
+			"hand": {
+				"translate": [
+					{ "x": 3 },
+					{ "time": 0.4, "x": 11 },
+					{ "time": 0.8667, "x": 3 }
+				]
+			},
+			"rope": {
+				"rotate": [
+					{},
+					{ "time": 0.4, "angle": 13.71 },
+					{ "time": 0.8667 }
+				],
+				"translate": [
+					{ "x": 12 },
+					{ "time": 0.4, "x": 22, "y": 2 },
+					{ "time": 0.8667, "x": 12 }
+				]
+			},
+			"loop": {
+				"translate": [
+					{ "x": -3, "y": -3 },
+					{ "time": 0.1333, "x": -106.1, "y": -30.6 },
+					{ "time": 0.1667, "x": -150.15, "y": -60.9 },
+					{ "time": 0.3, "x": -153.7, "y": -85.63 },
+					{ "time": 0.4333, "x": -119.56, "y": -97.1 },
+					{ "time": 0.6333, "x": 24.92, "y": -39.98 },
+					{ "time": 0.7667, "x": 22.81, "y": -16.99 },
+					{ "time": 0.9, "x": -3, "y": -3 }
+				]
+			},
+			"knot": {
+				"translate": [
+					{ "x": 10.05, "y": -3 },
+					{ "time": 0.4, "x": 3.05, "y": -19 },
+					{ "time": 0.8667, "x": 10.05, "y": -3 }
+				]
+			}
+		}
+	}
+}
+}

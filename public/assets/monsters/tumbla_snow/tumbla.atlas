@@ -1,0 +1,55 @@
+
+tumbla.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1
+  rotate: false
+  xy: 2, 2
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 196, 7
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+body3
+  rotate: false
+  xy: 100, 9
+  size: 94, 88
+  orig: 94, 88
+  offset: 0, 0
+  index: -1
+body4
+  rotate: false
+  xy: 288, 12
+  size: 93, 85
+  orig: 93, 85
+  offset: 0, 0
+  index: -1
+deadeyes
+  rotate: true
+  xy: 464, 40
+  size: 57, 29
+  orig: 60, 38
+  offset: 1, 4
+  index: -1
+eyes
+  rotate: false
+  xy: 383, 16
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 383, 56
+  size: 79, 41
+  orig: 79, 41
+  offset: 0, 0
+  index: -1

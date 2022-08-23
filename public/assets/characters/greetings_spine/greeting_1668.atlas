@@ -1,0 +1,34 @@
+
+greeting_1668.png
+size: 493, 259
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1668
+  rotate: false
+  xy: 2, 2
+  size: 420, 255
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+1668_1
+  rotate: false
+  xy: 424, 97
+  size: 23, 25
+  orig: 24, 26
+  offset: 0, 1
+  index: -1
+1668_2
+  rotate: false
+  xy: 424, 180
+  size: 67, 77
+  orig: 67, 78
+  offset: 0, 1
+  index: -1
+1668_3
+  rotate: false
+  xy: 424, 124
+  size: 54, 54
+  orig: 56, 54
+  offset: 2, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+greeting_1541.png
+size: 462, 424
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+2
+  rotate: true
+  xy: 2, 4
+  size: 420, 254
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+2a
+  rotate: true
+  xy: 258, 70
+  size: 116, 58
+  orig: 117, 58
+  offset: 0, 0
+  index: -1
+2b
+  rotate: false
+  xy: 258, 188
+  size: 202, 236
+  orig: 202, 237
+  offset: 0, 1
+  index: -1

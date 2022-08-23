@@ -1,0 +1,138 @@
+
+HahmoCyborg.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: true
+  xy: 2, 2
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 443, 69
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: false
+  xy: 443, 12
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+hand_Rside
+  rotate: true
+  xy: 62, 15
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+hand_left_b
+  rotate: true
+  xy: 101, 16
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+hand_left_f
+  rotate: true
+  xy: 140, 16
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+hand_right_b
+  rotate: true
+  xy: 360, 21
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+hand_right_f
+  rotate: true
+  xy: 399, 21
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+head_Lside
+  rotate: false
+  xy: 182, 41
+  size: 87, 83
+  orig: 87, 83
+  offset: 0, 0
+  index: -1
+head_Rside
+  rotate: false
+  xy: 271, 41
+  size: 87, 83
+  orig: 87, 83
+  offset: 0, 0
+  index: -1
+head_b
+  rotate: false
+  xy: 2, 40
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
+head_f
+  rotate: false
+  xy: 92, 40
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
+leg_Rside
+  rotate: true
+  xy: 182, 17
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+leg_Rside_2
+  rotate: true
+  xy: 216, 17
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+leg_left_b
+  rotate: false
+  xy: 490, 92
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+leg_left_f
+  rotate: false
+  xy: 490, 58
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+leg_right_b
+  rotate: false
+  xy: 490, 24
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+leg_right_f
+  rotate: true
+  xy: 250, 19
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+muumipappa
+  rotate: false
+  xy: 360, 45
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1

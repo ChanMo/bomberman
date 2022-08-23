@@ -1,0 +1,104 @@
+
+hahmo_happyscarecrow.png
+size: 509,325
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: false
+  xy: 278, 161
+  size: 112, 162
+  orig: 112, 162
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 144, 161
+  size: 132, 162
+  orig: 132, 162
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: false
+  xy: 2, 158
+  size: 140, 165
+  orig: 140, 165
+  offset: 0, 0
+  index: -1
+hand_Rside
+  rotate: true
+  xy: 144, 89
+  size: 70, 115
+  orig: 70, 116
+  offset: 0, 1
+  index: -1
+hand_left_b
+  rotate: true
+  xy: 2, 90
+  size: 66, 118
+  orig: 66, 118
+  offset: 0, 0
+  index: -1
+hand_left_f
+  rotate: false
+  xy: 392, 208
+  size: 71, 115
+  orig: 71, 115
+  offset: 0, 0
+  index: -1
+hand_right_b
+  rotate: true
+  xy: 261, 94
+  size: 65, 117
+  orig: 65, 118
+  offset: 0, 1
+  index: -1
+hand_right_f
+  rotate: true
+  xy: 392, 135
+  size: 71, 115
+  orig: 71, 115
+  offset: 0, 0
+  index: -1
+leg_Rside
+  rotate: true
+  xy: 2, 18
+  size: 70, 94
+  orig: 70, 94
+  offset: 0, 0
+  index: -1
+leg_Rside_2
+  rotate: true
+  xy: 2, 18
+  size: 70, 94
+  orig: 70, 94
+  offset: 0, 0
+  index: -1
+leg_left_b
+  rotate: true
+  xy: 364, 2
+  size: 63, 97
+  orig: 64, 98
+  offset: 1, 1
+  index: -1
+leg_left_f
+  rotate: true
+  xy: 380, 67
+  size: 66, 101
+  orig: 67, 101
+  offset: 0, 0
+  index: -1
+leg_right_b
+  rotate: true
+  xy: 98, 23
+  size: 64, 98
+  orig: 64, 98
+  offset: 0, 0
+  index: -1
+leg_right_f
+  rotate: true
+  xy: 261, 26
+  size: 66, 101
+  orig: 66, 101
+  offset: 0, 0
+  index: -1

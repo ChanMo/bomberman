@@ -1,0 +1,17 @@
+{
+  "animals": 0,
+  "walls": 0.45,
+  "minkeyposition": 0.4,
+  "monstertypes": "robotred"
+}
+############b##################################
+#\20/#.....oo#ooow..o..#.....Ä.ooo#oooooooooooooo#
+#o#.#.#.#oÄ-bo##qoq##.#.#oÄo##o#o##o#o#o#o#o#o#
+RoR....oÄ-#o#ooooo#.o\16/o.Ä.Ä\16/#.o#oooooooooooo###
+#o#r#.#o#oÄ-qoq####.#.#.#oÄo#QooQÄÄ##########D#
+#1ooU..oÄ-#o#-oo#..-....Ä.#oWo#oopzP####b###bo#
+#o#r#.#o#oÄ-#-#oÄw#.#.#.#oÄ\16/#oooQÄÄobooooooooo#
+RoR.o..oÄ-oo#-oo#..-.\19/..Ä.ÄooQo###oooo#obo#obo#
+#o#o#o#o##U##-###.#.#o#.#o#ÄÄÄo#op-#bobo#ob\21/#o#
+#\20/#\13/ooooPoooP-ooooooooooP..ooooPz#oooooooooooo#
+######################################b###b####

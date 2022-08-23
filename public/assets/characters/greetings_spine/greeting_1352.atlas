@@ -1,0 +1,27 @@
+
+greeting_1352.png
+size: 424,462
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 2, 217
+  size: 420, 243
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+3a
+  rotate: true
+  xy: 2, 2
+  size: 213, 228
+  orig: 213, 228
+  offset: 0, 0
+  index: -1
+3b
+  rotate: false
+  xy: 232, 2
+  size: 79, 89
+  orig: 79, 90
+  offset: 0, 1
+  index: -1

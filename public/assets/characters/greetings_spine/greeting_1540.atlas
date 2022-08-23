@@ -1,0 +1,34 @@
+
+greeting_1540.png
+size: 424, 328
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 74
+  size: 420, 254
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+1a
+  rotate: false
+  xy: 132, 8
+  size: 115, 64
+  orig: 115, 64
+  offset: 0, 0
+  index: -1
+1b
+  rotate: false
+  xy: 249, 44
+  size: 74, 28
+  orig: 75, 28
+  offset: 0, 0
+  index: -1
+1c
+  rotate: false
+  xy: 2, 4
+  size: 128, 68
+  orig: 128, 68
+  offset: 0, 0
+  index: -1

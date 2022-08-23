@@ -1,0 +1,27 @@
+
+greeting_1320.png
+size: 425,372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 2, 122
+  size: 421, 248
+  orig: 512, 256
+  offset: 38, 0
+  index: -1
+5a
+  rotate: true
+  xy: 127, 42
+  size: 78, 135
+  orig: 78, 135
+  offset: 0, 0
+  index: -1
+5b
+  rotate: true
+  xy: 2, 2
+  size: 118, 123
+  orig: 119, 123
+  offset: 1, 0
+  index: -1

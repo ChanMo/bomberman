@@ -1,0 +1,41 @@
+
+greeting_1665.png
+size: 450, 372
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1665
+  rotate: false
+  xy: 2, 115
+  size: 420, 255
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+1665_1
+  rotate: true
+  xy: 2, 20
+  size: 93, 146
+  orig: 93, 146
+  offset: 0, 0
+  index: -1
+1665_2
+  rotate: true
+  xy: 150, 18
+  size: 95, 140
+  orig: 95, 140
+  offset: 0, 0
+  index: -1
+1665_3
+  rotate: false
+  xy: 292, 15
+  size: 89, 98
+  orig: 89, 98
+  offset: 0, 0
+  index: -1
+1665_4
+  rotate: true
+  xy: 383, 2
+  size: 111, 65
+  orig: 111, 65
+  offset: 0, 0
+  index: -1

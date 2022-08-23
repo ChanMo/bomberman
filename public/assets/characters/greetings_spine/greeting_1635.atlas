@@ -1,0 +1,34 @@
+
+greeting_1635.png
+size: 424, 438
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+greeting_1635
+  rotate: false
+  xy: 2, 2
+  size: 420, 243
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+greeting_1635_1
+  rotate: true
+  xy: 197, 247
+  size: 189, 203
+  orig: 190, 203
+  offset: 0, 0
+  index: -1
+greeting_1635_2
+  rotate: false
+  xy: 2, 368
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1
+greeting_1635_3
+  rotate: false
+  xy: 106, 368
+  size: 89, 68
+  orig: 90, 68
+  offset: 1, 0
+  index: -1

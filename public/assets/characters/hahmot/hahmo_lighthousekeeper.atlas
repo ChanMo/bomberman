@@ -1,0 +1,104 @@
+
+hahmo_lighthousekeeper.png
+size: 504,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: false
+  xy: 275, 154
+  size: 113, 160
+  orig: 113, 160
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 141, 151
+  size: 132, 163
+  orig: 132, 163
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: false
+  xy: 2, 154
+  size: 137, 160
+  orig: 137, 160
+  offset: 0, 0
+  index: -1
+hand_Rside
+  rotate: true
+  xy: 275, 85
+  size: 67, 110
+  orig: 67, 111
+  offset: 0, 1
+  index: -1
+hand_left_b
+  rotate: false
+  xy: 390, 198
+  size: 67, 116
+  orig: 67, 117
+  offset: 0, 1
+  index: -1
+hand_left_f
+  rotate: true
+  xy: 390, 129
+  size: 67, 112
+  orig: 67, 112
+  offset: 0, 0
+  index: -1
+hand_right_b
+  rotate: true
+  xy: 116, 85
+  size: 64, 116
+  orig: 64, 117
+  offset: 0, 1
+  index: -1
+hand_right_f
+  rotate: true
+  xy: 2, 85
+  size: 67, 112
+  orig: 67, 112
+  offset: 0, 0
+  index: -1
+leg_Rside
+  rotate: true
+  xy: 387, 63
+  size: 64, 92
+  orig: 65, 92
+  offset: 1, 0
+  index: -1
+leg_Rside_2
+  rotate: true
+  xy: 387, 63
+  size: 64, 92
+  orig: 65, 92
+  offset: 1, 0
+  index: -1
+leg_left_b
+  rotate: true
+  xy: 2, 22
+  size: 61, 95
+  orig: 62, 95
+  offset: 0, 0
+  index: -1
+leg_left_f
+  rotate: true
+  xy: 196, 24
+  size: 59, 98
+  orig: 59, 98
+  offset: 0, 0
+  index: -1
+leg_right_b
+  rotate: true
+  xy: 99, 22
+  size: 61, 95
+  orig: 61, 95
+  offset: 0, 0
+  index: -1
+leg_right_f
+  rotate: true
+  xy: 296, 2
+  size: 59, 98
+  orig: 59, 98
+  offset: 0, 0
+  index: -1

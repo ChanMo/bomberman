@@ -1,0 +1,34 @@
+
+greeting_1543.png
+size: 424, 345
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+4
+  rotate: false
+  xy: 2, 93
+  size: 420, 252
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+4a
+  rotate: false
+  xy: 2, 24
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+4b
+  rotate: false
+  xy: 2, 44
+  size: 139, 47
+  orig: 139, 47
+  offset: 0, 0
+  index: -1
+4c
+  rotate: false
+  xy: 143, 4
+  size: 94, 87
+  orig: 94, 87
+  offset: 0, 0
+  index: -1

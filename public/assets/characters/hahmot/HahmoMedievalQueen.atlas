@@ -1,0 +1,104 @@
+
+HahmoMedievalQueen.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_Rside
+  rotate: false
+  xy: 231, 167
+  size: 62, 87
+  orig: 101, 161
+  offset: 18, 31
+  index: -1
+body_b
+  rotate: true
+  xy: 176, 2
+  size: 61, 72
+  orig: 125, 153
+  offset: 32, 37
+  index: -1
+body_f
+  rotate: false
+  xy: 176, 65
+  size: 73, 87
+  orig: 125, 153
+  offset: 26, 30
+  index: -1
+hand_Rside
+  rotate: false
+  xy: 167, 154
+  size: 62, 100
+  orig: 63, 102
+  offset: 0, 0
+  index: -1
+hand_left_b
+  rotate: false
+  xy: 2, 25
+  size: 56, 102
+  orig: 62, 104
+  offset: 6, 2
+  index: -1
+hand_left_f
+  rotate: false
+  xy: 60, 25
+  size: 56, 102
+  orig: 62, 104
+  offset: 0, 2
+  index: -1
+hand_right_b
+  rotate: false
+  xy: 109, 152
+  size: 56, 102
+  orig: 62, 104
+  offset: 0, 2
+  index: -1
+hand_right_f
+  rotate: false
+  xy: 118, 48
+  size: 56, 102
+  orig: 62, 104
+  offset: 6, 2
+  index: -1
+leg_Rside
+  rotate: true
+  xy: 2, 129
+  size: 125, 105
+  orig: 125, 153
+  offset: 0, 9
+  index: -1
+leg_Rside_2
+  rotate: true
+  xy: 2, 129
+  size: 125, 105
+  orig: 125, 153
+  offset: 0, 9
+  index: -1
+leg_left_b
+  rotate: true
+  xy: 251, 12
+  size: 65, 82
+  orig: 65, 88
+  offset: 0, 3
+  index: -1
+leg_left_f
+  rotate: false
+  xy: 251, 79
+  size: 65, 86
+  orig: 65, 88
+  offset: 0, 0
+  index: -1
+leg_right_b
+  rotate: false
+  xy: 318, 84
+  size: 65, 82
+  orig: 65, 88
+  offset: 0, 3
+  index: -1
+leg_right_f
+  rotate: false
+  xy: 295, 168
+  size: 65, 86
+  orig: 65, 88
+  offset: 0, 0
+  index: -1

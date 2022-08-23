@@ -1,0 +1,80 @@
+{
+"skeleton": { "hash": "3og6uXRBgTw", "spine": "3.8-from-4.0.56", "x": -256, "y": -128, "width": 512, "height": 264.5 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bubble", "parent": "root", "x": 3, "y": -61 },
+	{ "name": "head", "parent": "root", "y": 20 }
+],
+"slots": [
+	{ "name": "1667", "bone": "root", "attachment": "1667" },
+	{ "name": "1667_3", "bone": "head", "attachment": "1667_1" },
+	{ "name": "1667_5", "bone": "bubble", "attachment": "1667_4" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1667": {
+				"1667": { "width": 512, "height": 256 }
+			},
+			"1667_3": {
+				"1667_1": { "width": 217, "height": 233 },
+				"1667_2": { "width": 217, "height": 233 },
+				"1667_3": { "width": 217, "height": 233 }
+			},
+			"1667_5": {
+				"1667_4": { "width": 57, "height": 53 },
+				"1667_5": { "width": 208, "height": 208 }
+			}
+		}
+	}
+],
+"animations": {
+	"emote": {
+		"slots": {
+			"1667_3": {
+				"attachment": [
+					{ "time": 1.4667, "name": "1667_2" },
+					{ "time": 2.8667, "name": "1667_3" },
+					{ "time": 3.6667, "name": "1667_1" }
+				]
+			},
+			"1667_5": {
+				"color": [
+					{ "time": 2.9333, "color": "ffffffff" },
+					{ "time": 2.9667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 1.0333, "name": "1667_5" },
+					{ "time": 2.9, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"head": {
+				"translate": [
+					{ "y": -3 }
+				]
+			},
+			"bubble": {
+				"translate": [
+					{ "y": -3, "curve": "stepped" },
+					{ "time": 1, "y": -3 },
+					{ "time": 2.4667, "y": 60, "curve": "stepped" },
+					{ "time": 2.8, "y": 60 },
+					{ "time": 2.9333, "y": 6 }
+				],
+				"scale": [
+					{ "x": 0.908, "y": 0.908, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0.908, "y": 0.908 },
+					{ "time": 1, "x": 1.299, "y": 1.299 },
+					{ "time": 1.0333, "x": 0.394, "y": 0.394 },
+					{ "time": 2.4667, "x": 1.349, "y": 1.349 },
+					{ "time": 2.8, "x": 1.379, "y": 1.379 },
+					{ "time": 2.9333, "x": 0.679, "y": 0.679 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,48 @@
+
+greeting_1703.png
+size: 628, 335
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1702
+  rotate: false
+  xy: 2, 90
+  size: 420, 243
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+1703
+  rotate: false
+  xy: 424, 123
+  size: 195, 210
+  orig: 195, 210
+  offset: 0, 0
+  index: -1
+1703_1
+  rotate: true
+  xy: 109, 20
+  size: 68, 89
+  orig: 68, 89
+  offset: 0, 0
+  index: -1
+1703_2
+  rotate: true
+  xy: 2, 2
+  size: 86, 105
+  orig: 86, 105
+  offset: 0, 0
+  index: -1
+1703_3
+  rotate: false
+  xy: 424, 17
+  size: 202, 104
+  orig: 202, 104
+  offset: 0, 0
+  index: -1
+1703_4
+  rotate: false
+  xy: 200, 51
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+greeting_1669.png
+size: 432, 424
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1669
+  rotate: true
+  xy: 2, 2
+  size: 420, 255
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+1669_1
+  rotate: false
+  xy: 259, 191
+  size: 171, 231
+  orig: 171, 231
+  offset: 0, 0
+  index: -1

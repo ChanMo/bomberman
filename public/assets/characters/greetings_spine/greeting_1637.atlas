@@ -1,0 +1,41 @@
+
+greeting_1637.png
+size: 466, 424
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+greeting_1637
+  rotate: true
+  xy: 2, 2
+  size: 420, 243
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+greeting_1637_1
+  rotate: false
+  xy: 247, 190
+  size: 217, 232
+  orig: 217, 233
+  offset: 0, 1
+  index: -1
+greeting_1637_2
+  rotate: true
+  xy: 346, 103
+  size: 85, 116
+  orig: 85, 116
+  offset: 0, 0
+  index: -1
+greeting_1637_3
+  rotate: false
+  xy: 247, 38
+  size: 97, 150
+  orig: 97, 150
+  offset: 0, 0
+  index: -1
+greeting_1637_4
+  rotate: false
+  xy: 346, 54
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+greeting_1316.png
+size: 425,370
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 112
+  size: 421, 256
+  orig: 512, 256
+  offset: 38, 0
+  index: -1
+1a
+  rotate: true
+  xy: 2, 2
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+1b
+  rotate: false
+  xy: 114, 2
+  size: 107, 108
+  orig: 107, 108
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+greeting_1738.png
+size: 466, 424
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+greeting_1738
+  rotate: true
+  xy: 2, 2
+  size: 420, 243
+  orig: 512, 256
+  offset: 39, 0
+  index: -1
+greeting_1738_1
+  rotate: false
+  xy: 247, 113
+  size: 129, 75
+  orig: 129, 75
+  offset: 0, 0
+  index: -1
+greeting_1738_2
+  rotate: false
+  xy: 247, 190
+  size: 217, 232
+  orig: 217, 233
+  offset: 0, 1
+  index: -1
+greeting_1738_3
+  rotate: true
+  xy: 378, 130
+  size: 58, 86
+  orig: 58, 87
+  offset: 0, 0
+  index: -1
+greeting_1738_4
+  rotate: true
+  xy: 378, 71
+  size: 57, 86
+  orig: 57, 86
+  offset: 0, 0
+  index: -1
